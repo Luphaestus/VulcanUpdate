@@ -11,7 +11,7 @@
   
     <pixlify_gphotos>
         <brief>Infinite Google photos.</brief>
-        <heading>Steps to use:</heading>
+        <heading>Steps to use</heading>
         <description>1. Install a Ksu Kerneland LSPosed (See module tab).\n2. Install the apk of this app (available from Releases page.)\n3. Open LSPosed / EdXposed app and enable the module. For LSPosed, Google Photos will be automatically selected.\n4. Reboot, and selecet Pixel XL within the app.\n5. Enjoy. (If needed, you might need to clear data of Google Photos app).</description>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/pixelifyGphotos.apk</downloadurl>
@@ -21,7 +21,7 @@
     <dynamic_spot>
         <brief>Dynamic insland for android.</brief>
         <description>• iPhone 15 Pro Dynamic Island notifications\n• iOS notification popups\n• iOS 16.1 Live Activities (app shortcuts)\n• Mini Capsule popup\n• Send notification replies from popup\n• iOS notification popup\n• Notification light / LED replacement\n• Show timer countdown\n• iOS music controls\n• Animated music visualizer\n• Battery charging or empty alarm\n• Customizable interaction\n• Selcet notification apps\n• Play / Pause\n• Next / Prev\n• Touchable seekbar\n• Custom actions support (like, favorites...)\n• Timer apps: Show running timer\n• Battery: Show percentage\n• Maps: Show distance\n• Music apps: Music controls\n• More to come soon!</description>
-        <heading>Features.</heading>
+        <heading>Features</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/dynamicSpot.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/dynamicSpot.apk</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot2.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot3.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot4.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot5.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot6.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot7.png</ss>
