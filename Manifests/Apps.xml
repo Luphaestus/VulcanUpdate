@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
     <momo>
-        <brief>Root detector</brief>
+        <brief>Root detector.</brief>
         <heading>See how apps are detecting Root.</heading>
         <description>What should I put for this?</description>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo.png</icon>
@@ -10,9 +10,9 @@
     </momo>
   
     <pixlify_gphotos>
-        <brief>LSPosed / EdXposed module to add Google Pixel features on Google Photos for any device.</brief>
+        <brief>Infinite Google photos.</brief>
         <heading>Steps to use:</heading>
-        <description>1. Install a Ksu Kernel (See twrp tab), LSPosed Or EdXposed.\n2. Install the apk of this app (available from Releases page.)\n3. Open LSPosed / EdXposed app and enable the module. For LSPosed, Google Photos will be automatically selected.\n 4. Reboot. Enjoy. (If needed, you might need to clear data of Google Photos app).</description>
+        <description>1. Install a Ksu Kerneland LSPosed (See module tab).\n2. Install the apk of this app (available from Releases page.)\n3. Open LSPosed / EdXposed app and enable the module. For LSPosed, Google Photos will be automatically selected.\n4. Reboot, and selecet Pixel XL within the app.\n5. Enjoy. (If needed, you might need to clear data of Google Photos app).</description>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/pixelifyGphotos.apk</downloadurl>
         <ss></ss>
