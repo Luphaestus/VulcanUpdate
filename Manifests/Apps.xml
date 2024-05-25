@@ -6,7 +6,7 @@
         <heading>How do I use KernelSU?</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/kernelsu.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/kernelsu.apk</downloadurl>
-        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/bootloaderUnlocked.png</ss>
+        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu2.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu3.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu4.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu5.png</ss>
         <package>me.weishu.kernelsu</package>
     </kernelSU>
     
