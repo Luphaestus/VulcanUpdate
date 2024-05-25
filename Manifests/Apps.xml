@@ -7,7 +7,7 @@
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/kernelsu.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/kernelsu.apk</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/bootloaderUnlocked.png</ss>
-        <package>me.weishu,kernelsu</package>
+        <package>me.weishu.kernelsu</package>
     </kernelSU>
     
     <momo>
