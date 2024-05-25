@@ -64,7 +64,7 @@
         <brief>Android file manager with Root access support.</brief>
         <description>Open source: Lightweight, clean and secure.\nMaterial Design: Follows Material Design guidelines, with attention into details.\nBreadcrumbs: Navigate in the filesystem with ease.\nRoot support: View and manage files with root access.\nArchive support: View, extract and create common compressed files.\nNAS support: View and manage files on FTP, SFTP, SMB and WebDAV servers.\nThemes: Customizable UI colors, plus night mode with optional true black.\nLinux-aware: Like Nautilus, knows symbolic links, file permissions and SELinux context.\nRobust: Uses Linux system calls under the hood, not yet another ls parser.\nWell-implemented: Built upon the right things, including Java NIO2 File API and LiveData.</description>
         <heading>Features</heading>
-        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/files.png</icon>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/filesicon.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/files/files.apk</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/files1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/files2.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/files3.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/files4.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/files5.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/files6.png</ss>
         <package>es.chiteroman.bootloaderspoofer</package>
