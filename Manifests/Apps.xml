@@ -24,9 +24,9 @@
         <brief>Infinite Google photos.</brief>
         <heading>Steps to use</heading>
         <description>1. Install a Ksu Kerneland LSPosed (See module tab).\n2. Install the apk of this app (available from Releases page.)\n3. Open LSPosed / EdXposed app and enable the module. For LSPosed, Google Photos will be automatically selected.\n4. Reboot, and selecet Pixel XL within the app.\n5. Enjoy. (If needed, you might need to clear data of Google Photos app).</description>
-        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/pthotos/gphotos.png</icon>
-        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/pthotos/pixelifyGphotos.apk</downloadurl>
-        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/pthotos/gphotos1.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/pthotos/gphotos2.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/pthotos/gphotos3.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/pthotos/gphotos4.jpg</ss>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos.png</icon>
+        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/gphotos/pixelifyGphotos.apk</downloadurl>
+        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos1.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos2.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos3.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos4.jpg</ss>
         <package>balti.xposed.pixelifygooglephotos</package>
     </pixlify_gphotos>
   
@@ -40,7 +40,6 @@
         <package>com.jamworks.dynamicspot</package>
     </dynamic_spot>
 
-      
     <bootloader_spoofer>
         <brief>Spooflocked bootloader on local attestations.</brief>
         <description></description>
@@ -50,4 +49,24 @@
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/boootloader/bootloaderUnlocked.png</ss>
         <package>es.chiteroman.bootloaderspoofer</package>
     </bootloader_spoofer>
+
+    <termux>
+        <brief>An Android terminal emulator and Linux environment app.</brief>
+        <description>Secure. Access remote servers using the ssh client from OpenSSH. Termux combines standard packages with accurate terminal emulation in a beautiful open source solution.\n\nFeature packed. Take your pick between Bash, fish or Zsh and nano, Emacs or Vim. Grep through your SMS inbox. Access API endpoints with curl and use rsync to store backups of your contact list on a remote server.\n\nCustomizable. Install what you want through the APT package management system known from Debian and Ubuntu GNU/Linux. Why not start with installing Git and syncing your dotfiles?\n\nExplorable. Have you ever sat on a bus and wondered exactly which arguments tar accepts? Packages available in Termux are the same as those on Mac and Linux - install man pages on your phone and read them in one session while experimenting with them in another.\n\nPortable - With batteries included. Can you imagine a more powerful yet elegant pocket calculator than a readline-powered Python console? Up-to-date versions of Perl, Python, Ruby and Node.js are all available.\n\nReady to scale up. Connect a Bluetooth keyboard and hook up your device to an external display if you need to - Termux supports keyboard shortcuts and has full mouse support.\n\nTinkerable. Develop by compiling Go, Rust, Swift, or C files with Clang and build your own projects with CMake and pkg-config. Both lldb/GDB and strace are available if you get stuck and need to debug.</description>
+        <heading>Features</heading>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/termux/icon.png</icon>
+        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/termux/termux.apk</downloadurl>
+        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/termux/termux1.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/termux/termux2.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/termux/termux3.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/termux/termux4.png</ss>
+        <package>es.chiteroman.bootloaderspoofer</package>
+    </termux>
+
+    <material_files>
+        <brief>Android file manager with Root access support.</brief>
+        <description>Open source: Lightweight, clean and secure.\nMaterial Design: Follows Material Design guidelines, with attention into details.\nBreadcrumbs: Navigate in the filesystem with ease.\nRoot support: View and manage files with root access.\nArchive support: View, extract and create common compressed files.\nNAS support: View and manage files on FTP, SFTP, SMB and WebDAV servers.\nThemes: Customizable UI colors, plus night mode with optional true black.\nLinux-aware: Like Nautilus, knows symbolic links, file permissions and SELinux context.\nRobust: Uses Linux system calls under the hood, not yet another ls parser.\nWell-implemented: Built upon the right things, including Java NIO2 File API and LiveData.</description>
+        <heading>Features</heading>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/files.png</icon>
+        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/files/files.apk</downloadurl>
+        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/files1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/files2.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/files3.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/files4.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/files5.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/files6.png</ss>
+        <package>es.chiteroman.bootloaderspoofer</package>
+    </material_files>
 </items>
