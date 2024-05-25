@@ -4,9 +4,9 @@
         <brief>A kernel-based root solution for Android.</brief>
         <description>Firstly, make sure you are using a kernel that supports kernelSU (see twrp tab).\nMost modules require zygisk, so you should install zygiskNext and zygisk hider (see modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
         <heading>How do I use KernelSU?</heading>
-        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/kernelsu.png</icon>
-        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/kernelsu.apk</downloadurl>
-        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu2.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu3.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu4.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu5.jpg</ss>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
+        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/ksu/kernelsu.apk</downloadurl>
+        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.jpg</ss>
         <package>me.weishu.kernelsu</package>
     </kernelSU>
     
@@ -14,9 +14,9 @@
         <brief>Root detector.</brief>
         <heading>Tips</heading>
         <description>Apps still detecting root, even if momo isn't? Make sure you are play certified.\nIs it detecting your unlocked bootloader?Install bootloader spoofer (see apps tab)\nIs momo detecting TWRP? Make sure you remove the TWRP folder in internal storage.</description>
-        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo.png</icon>
-        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/momo.apk</downloadurl>
-        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/mmosus.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/mmogood.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/mmobroken.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/mmoback.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/mmoabout.jpg</ss>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/momo.png</icon>
+        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/momo/momo.apk</downloadurl>
+        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/mmosus.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/mmogood.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/mmobroken.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/mmoback.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/mmoabout.jpg</ss>
         <package>io.github.vvb2060.mahoshojo</package>
     </momo>
   
@@ -24,9 +24,9 @@
         <brief>Infinite Google photos.</brief>
         <heading>Steps to use</heading>
         <description>1. Install a Ksu Kerneland LSPosed (See module tab).\n2. Install the apk of this app (available from Releases page.)\n3. Open LSPosed / EdXposed app and enable the module. For LSPosed, Google Photos will be automatically selected.\n4. Reboot, and selecet Pixel XL within the app.\n5. Enjoy. (If needed, you might need to clear data of Google Photos app).</description>
-        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos.png</icon>
-        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/pixelifyGphotos.apk</downloadurl>
-        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos1.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos2.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos3.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos4.jpg</ss>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/pthotos/gphotos.png</icon>
+        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/pthotos/pixelifyGphotos.apk</downloadurl>
+        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/pthotos/gphotos1.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/pthotos/gphotos2.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/pthotos/gphotos3.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/pthotos/gphotos4.jpg</ss>
         <package>balti.xposed.pixelifygooglephotos</package>
     </pixlify_gphotos>
   
@@ -34,9 +34,9 @@
         <brief>Dynamic insland for android.</brief>
         <description>• iPhone 15 Pro Dynamic Island notifications\n• iOS notification popups\n• iOS 16.1 Live Activities (app shortcuts)\n• Mini Capsule popup\n• Send notification replies from popup\n• iOS notification popup\n• Notification light / LED replacement\n• Show timer countdown\n• iOS music controls\n• Animated music visualizer\n• Battery charging or empty alarm\n• Customizable interaction\n• Selcet notification apps\n• Play / Pause\n• Next / Prev\n• Touchable seekbar\n• Custom actions support (like, favorites...)\n• Timer apps: Show running timer\n• Battery: Show percentage\n• Maps: Show distance\n• Music apps: Music controls\n• More to come soon!</description>
         <heading>Features</heading>
-        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/dynamicSpot.png</icon>
-        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/dynamicSpot.apk</downloadurl>
-        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot2.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot3.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot4.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot5.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot6.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot7.png</ss>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/dynamicSpot/dynamicSpot.png</icon>
+        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/dynamicSpot/dynamicSpot.apk</downloadurl>
+        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/dynamicSpot/spot1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/dynamicSpot/spot2.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/dynamicSpot/spot3.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/dynamicSpot/spot4.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/dynamicSpot/spot5.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/dynamicSpot/spot6.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/dynamicSpot/spot7.png</ss>
         <package>com.jamworks.dynamicspot</package>
     </dynamic_spot>
 
@@ -45,9 +45,9 @@
         <brief>Spooflocked bootloader on local attestations.</brief>
         <description></description>
         <heading></heading>
-        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/bootloader.png</icon>
-        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/bootloader.apk</downloadurl>
-        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/bootloaderUnlocked.png</ss>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/boootloader/bootloader.png</icon>
+        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/boootloader/bootloader.apk</downloadurl>
+        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/boootloader/bootloaderUnlocked.png</ss>
         <package>es.chiteroman.bootloaderspoofer</package>
     </bootloader_spoofer>
 </items>
