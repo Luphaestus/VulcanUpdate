@@ -23,7 +23,7 @@
     <pixlify_gphotos>
         <brief>Infinite Google photos.</brief>
         <heading>Steps to use</heading>
-        <description>1. Install a Ksu Kerneland LSPosed (See module tab).\n2. Install the apk of this app (available from Releases page.)\n3. Open LSPosed / EdXposed app and enable the module. For LSPosed, Google Photos will be automatically selected.\n4. Reboot, and selecet Pixel XL within the app.\n5. Enjoy. (If needed, you might need to clear data of Google Photos app).</description>
+        <description>1. Install a Ksu Kerneland LSPosed (See module tab).\n\n2. Install the apk of this app (available from Releases page.)\n\n3. Open LSPosed / EdXposed app and enable the module. For LSPosed, Google Photos will be automatically selected.\n\n4. Reboot, and selecet Pixel XL within the app.\n\n5. Enjoy. (If needed, you might need to clear data of Google Photos app).</description>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/gphotos/pixelifyGphotos.apk</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos1.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos2.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos3.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos4.jpg</ss>
@@ -62,7 +62,7 @@
 
     <material_files>
         <brief>Android file manager with Root access support.</brief>
-        <description>Open source: Lightweight, clean and secure.\nMaterial Design: Follows Material Design guidelines, with attention into details.\nBreadcrumbs: Navigate in the filesystem with ease.\nRoot support: View and manage files with root access.\nArchive support: View, extract and create common compressed files.\nNAS support: View and manage files on FTP, SFTP, SMB and WebDAV servers.\nThemes: Customizable UI colors, plus night mode with optional true black.\nLinux-aware: Like Nautilus, knows symbolic links, file permissions and SELinux context.\nRobust: Uses Linux system calls under the hood, not yet another ls parser.\nWell-implemented: Built upon the right things, including Java NIO2 File API and LiveData.</description>
+        <description>Open source: Lightweight, clean and secure.\n\nMaterial Design: Follows Material Design guidelines, with attention into details.\n\nBreadcrumbs: Navigate in the filesystem with ease.\n\nRoot support: View and manage files with root access.\n\nArchive support: View, extract and create common compressed files.\n\nNAS support: View and manage files on FTP, SFTP, SMB and WebDAV servers.\n\nThemes: Customizable UI colors, plus night mode with optional true black.\n\nLinux-aware: Like Nautilus, knows symbolic links, file permissions and SELinux context.\n\nRobust: Uses Linux system calls under the hood, not yet another ls parser.\n\nWell-implemented: Built upon the right things, including Java NIO2 File API and LiveData.</description>
         <heading>Features</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/filesicon.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/files/files.apk</downloadurl>
