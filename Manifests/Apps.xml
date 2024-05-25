@@ -2,8 +2,8 @@
 <items>
     <momo>
         <brief>Root detector.</brief>
-        <heading>See how apps are detecting Root.</heading>
-        <description>What should I put for this?</description>
+        <heading>Tips</heading>
+        <description>Apps still detecting root, even if momo isn't? Make sure you are play certified.\nIs it detecting your unlocked bootloader?Install bootloader spoofer (see apps tab)\nIs momo detecting TWRP? Make sure you remove the TWRP folder in internal storage.</description>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/momo.apk</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/mmosus.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/mmogood.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/mmobroken.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/mmoback.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/mmoabout.jpg</ss>
