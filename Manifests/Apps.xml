@@ -7,6 +7,7 @@
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/momo.apk</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/mmosus.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/mmogood.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/mmobroken.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/mmoback.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/mmoabout.jpg</ss>
+        <package>io.github.vvb2060.mahoshojo</package>
     </momo>
   
     <pixlify_gphotos>
@@ -16,6 +17,7 @@
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/pixelifyGphotos.apk</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos1.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos2.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos3.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos4.jpg</ss>
+        <package>balti.xposed.pixelifygooglephotos</package>
     </pixlify_gphotos>
   
     <dynamic_spot>
@@ -25,5 +27,6 @@
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/dynamicSpot.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/dynamicSpot.apk</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot2.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot3.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot4.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot5.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot6.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot7.png</ss>
+        <package>com.jamworks.dynamicspot</package>
     </dynamic_spot>
 </items>
