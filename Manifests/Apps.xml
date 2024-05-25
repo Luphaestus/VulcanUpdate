@@ -57,7 +57,7 @@
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/termux/icon.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/termux/termux.apk</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/termux/termux1.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/termux/termux2.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/termux/termux3.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/termux/termux4.png</ss>
-        <package>es.chiteroman.bootloaderspoofer</package>
+        <package>com.termux</package>
     </termux>
 
     <material_files>
@@ -67,6 +67,6 @@
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/filesicon.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/files/files.apk</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/files1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/files2.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/files3.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/files4.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/files5.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/files6.png</ss>
-        <package>es.chiteroman.bootloaderspoofer</package>
+        <package>me.zhanghai.android.files</package>
     </material_files>
 </items>
