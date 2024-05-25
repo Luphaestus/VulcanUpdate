@@ -29,4 +29,15 @@
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot2.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot3.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot4.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot5.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot6.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/spot7.png</ss>
         <package>com.jamworks.dynamicspot</package>
     </dynamic_spot>
+
+      
+    <bootloader_spoofer>
+        <brief>Spooflocked bootloader on local attestations.</brief>
+        <description></description>
+        <heading></heading>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/bootloader.png</icon>
+        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/bootloader.apk</downloadurl>
+        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/bootloaderUnlocked.png</ss>
+        <package>es.chiteroman.bootloaderspoofer</package>
+    </bootloader_spoofer>
 </items>
