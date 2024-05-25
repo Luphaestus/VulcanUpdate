@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
+    <kernelSU>
+        <brief>A kernel-based root solution for Android.</brief>
+        <description>Firstly, make sure you are using a kernel that supports kernelSU (see twrp tab).\nMost modules require zygisk, so you should install zygiskNext and zygisk hider (see modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
+        <heading>How do I use KernelSU?</heading>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/kernelsu.png</icon>
+        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/kernelsu.apk</downloadurl>
+        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/bootloaderUnlocked.png</ss>
+        <package>me.weishu,kernelsu</package>
+    </kernelSU>
+    
     <momo>
         <brief>Root detector.</brief>
         <heading>Tips</heading>
