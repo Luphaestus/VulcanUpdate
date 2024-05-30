@@ -53,7 +53,7 @@
     <pixlify_gphotos>
         <brief>Infinite Google photos</brief>
         <heading>How To Use</heading>
-        <description>1. Install a KSU Kernel and LSPosed (See Module tab).\n\n2. Install the APK of this app (available from Releases page.)\n\n3. Open LSPosed / EdXposed app and enable the module. For LSPosed, Google Photos will be automatically selected.\n\n4. Reboot, and selecet Pixel XL within the app.\n\n5. Enjoy. (If needed, you might need to clear data of Google Photos app).</description>
+        <description>1. Install a KSU Kernel and LSPosed (See Module tab).\n2. Install this of this app\n3. Open LSPosed / EdXposed app and enable the module. For LSPosed, Google Photos will be automatically selected.\n4. Reboot, and selecet Pixel XL within the app.\n5. Enjoy! (Sometimes you might need to clear data of Google Photos app)</description>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/gphotos/pixelifyGphotos.apk</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos1.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos2.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos3.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos4.jpg</ss>
