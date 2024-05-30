@@ -70,7 +70,7 @@
          <package>com.termux</package>
     </termux>
 
-    <viper4android>
+    <viper4Android>
          <brief>Tweak the sound of your phone or speakers</brief>
          <description>1. Install the ViPER4Android module (See Modules Tab).\n2. Open the app.\n3. Go into settings and enable Legacy mode.\n4. Enable Master Limiter.\n5. Tweak the settings to match your preference.\n6. Enjoy!</description>
          <heading>Steps To Use</heading>
@@ -78,11 +78,11 @@
          <downloadurl>https://github.com/Luphaestus/VulcanUpdate/blob/main/Apps/viper/ViPER4Android.apk</downloadurl>
          <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper2.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper3.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper4.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper5.jpg</ss>
          <package>com.aam.viper4android</package>
-    </viper4android>
+    </viper4Android>
     
     <viperfx>
-         <brief>OneUI Redesign of ViPER2Android</brief>
-         <description>1. Install the ViPERr4Android module (See Modules Tab).\n2. Open the app.\n3. Go into settings and enable Legacy mode.\n4. Enable Master Limiter.\n5. Tweak the settings to match your preference.\n6. Enjoy!</description>
+         <brief>OneUI Redesign of ViPER4Android</brief>
+         <description>1. Install the ViPER4Android module (See Modules Tab).\n2. Open the app.\n3. Go into settings and enable Legacy mode.\n4. Enable Master Limiter.\n5. Tweak the settings to match your preference.\n6. Enjoy!</description>
          <heading>Steps To Use</heading>
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx.jpg</icon>
          <downloadurl>https://github.com/Luphaestus/VulcanUpdate/blob/main/Apps/viperfx/ViperFXRedesign.apk</downloadurl>
