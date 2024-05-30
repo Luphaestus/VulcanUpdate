@@ -3,46 +3,60 @@
     <zygisk>
         <brief>Standalone implementation of Zygisk.</brief>
         <description>Firstly, make sure you are using a kernel that supports KernelSU (See TWRP tab).\nMost modules require Zygisk, so you should install ZygiskNext and Zygisk Hider (See Modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
-        <heading>How do I use KernelSU?</heading>
+        <heading>How do I use module?</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
         <downloadurl>https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.0.5/Zygisk-Next-1.0.5-305-d463cbb-release.zip</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.jpg</ss>
         <package>Zygisk Next</package>
     </zygisk>
+    
     <zygisk_hider>
         <brief>Module for hiding the traces of Zygisk</brief>
         <description>Firstly, make sure you are using a kernel that supports KernelSU (See TWRP tab).\nMost modules require Zygisk, so you should install ZygiskNext and Zygisk Hider (See Modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
-        <heading>How do I use KernelSU?</heading>
+        <heading>How do I use module?</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
         <downloadurl>https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.0.5/Zygisk-Next-1.0.5-305-d463cbb-release.zip</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.jpg</ss>
         <package>Zygisk Next</package>
     </zygisk_hider>
+    
     <viper4android_re>
         <brief>Module for using Viper4Android on Android</brief>
         <description>Firstly, make sure you are using a kernel that supports KernelSU (See TWRP tab).\nMost modules require Zygisk, so you should install ZygiskNext and Zygisk Hider (See Modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
-        <heading>How do I use KernelSU?</heading>
+        <heading>How do I use this module?</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
         <downloadurl>https://github.com/AndroidAudioMods/ViPER4Android/releases/download/v0.6.1/V4A_Magisk_Module_0.6.1.zip</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.jpg</ss>
         <package>Viper4Android Reverse Engineered</package>
-    </viper4android_re> 
-   <lsposed>
-     <brief>Zygisk module for using LSPosed with KernelSU</brief>
-     <description>Firstly, make sure you are using a kernel that supports KernelSU (See TWRP tab).\nMost modules require Zygisk, so you should install ZygiskNext and Zygisk Hider (See Modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
-     <heading>How do I use KernelSU?</heading>
-     <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
-     <downloadurl>https://github.com/LSPosed/LSPosed/releases/download/v1.9.2/LSPosed-v1.9.2-7024-zygisk-release.zip</downloadurl>
-     <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.jpg</ss>
-     <package>LSPosed Zygisk</package>
-   </lsposed>
-   <lsposed_traces_hider>
-     <brief>A kernel-based root solution for Android.</brief>
-     <description>Firstly, make sure you are using a kernel that supports KernelSU (See TWRP tab).\nMost modules require Zygisk, so you should install ZygiskNext and Zygisk Hider (See Modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
-     <heading>How do I use KernelSU?</heading>
-     <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
-     <downloadurl>https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.0.5/Zygisk-Next-1.0.5-305-d463cbb-release.zip</downloadurl>
-     <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.jpg</ss>
-     <package>Zygisk Next</package>
-   </lsposed_traces_hider>
+    </viper4android_re>
+    
+    <lsposed>
+         <brief>Zygisk module for using LSPosed with KernelSU</brief>
+         <description>Firstly, make sure you are using a kernel that supports KernelSU (See TWRP tab).\nMost modules require Zygisk, so you should install ZygiskNext and Zygisk Hider (See Modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
+         <heading>How do I use this module?</heading>
+         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
+         <downloadurl>https://github.com/LSPosed/LSPosed/releases/download/v1.9.2/LSPosed-v1.9.2-7024-zygisk-release.zip</downloadurl>
+         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.jpg</ss>
+         <package>LSPosed Zygisk</package>
+    </lsposed>
+    
+    <lsposed_traces_hider>
+         <brief>A kernel-based root solution for Android.</brief>
+         <description>Firstly, make sure you are using a kernel that supports KernelSU (See TWRP tab).\nMost modules require Zygisk, so you should install ZygiskNext and Zygisk Hider (See Modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
+         <heading>How do I use this module?</heading>
+         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
+         <downloadurl>https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.0.5/Zygisk-Next-1.0.5-305-d463cbb-release.zip</downloadurl>
+         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.jpg</ss>
+         <package>Zygisk Next</package>
+    </lsposed_traces_hider>
+    
+    <youtube_revanced_ex>
+         <brief>Use Youtube Revenced Extended with this module.</brief>
+         <description>Firstly, make sure you are using a kernel that supports KernelSU (See TWRP tab).\nMost modules require Zygisk, so you should install ZygiskNext and Zygisk Hider (See Modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
+         <heading>How do I use this modules?</heading>
+         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
+         <downloadurlhttps://github.com/NoName-exe/revanced-extended/releases/download/113/youtube-revanced-extended-magisk-v19.20.34-all.zip</downloadurl>
+         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.jpg</ss>
+         <package>Zygisk Next</package>
+   </youtube_revanced_ex>
 </items>
