@@ -2,7 +2,7 @@
 <items>
     <kernelSU>
         <brief>A kernel-based root solution for Android.</brief>
-        <description>Firstly, make sure you are using a kernel that supports kernelSU (see twrp tab).\nMost modules require zygisk, so you should install zygiskNext and zygisk hider (see modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
+        <description>Firstly, make sure you are using a kernel that supports KernelSU (see twrp tab).\nMost modules require Zygisk, so you should install ZygiskNext and Zygisk Hider (See Modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
         <heading>How do I use KernelSU?</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/ksu/kernelsu.apk</downloadurl>
@@ -13,7 +13,7 @@
     <momo>
         <brief>Root detector.</brief>
         <heading>Tips</heading>
-        <description>Apps still detecting root, even if momo isn't? Make sure you are play certified.\nIs it detecting your unlocked bootloader?Install bootloader spoofer (see apps tab)\nIs momo detecting TWRP? Make sure you remove the TWRP folder in internal storage.</description>
+        <description>Apps still detecting root, even if Momo isn't? Make sure you are Play certified.\nIs it detecting your unlocked bootloader? Install bootloader spoofer (See Apps tab)\nIs momo detecting TWRP? Make sure you remove the TWRP folder in internal storage.</description>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/momo.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/momo/momo.apk</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/mmosus.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/mmogood.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/mmobroken.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/mmoback.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/mmoabout.jpg</ss>
@@ -22,8 +22,8 @@
   
     <pixlify_gphotos>
         <brief>Infinite Google photos.</brief>
-        <heading>Steps to use</heading>
-        <description>1. Install a Ksu Kerneland LSPosed (See module tab).\n\n2. Install the apk of this app (available from Releases page.)\n\n3. Open LSPosed / EdXposed app and enable the module. For LSPosed, Google Photos will be automatically selected.\n\n4. Reboot, and selecet Pixel XL within the app.\n\n5. Enjoy. (If needed, you might need to clear data of Google Photos app).</description>
+        <heading>Steps To Use</heading>
+        <description>1. Install a KSU Kernel and LSPosed (See Module tab).\n\n2. Install the APK of this app (available from Releases page.)\n\n3. Open LSPosed / EdXposed app and enable the module. For LSPosed, Google Photos will be automatically selected.\n\n4. Reboot, and selecet Pixel XL within the app.\n\n5. Enjoy. (If needed, you might need to clear data of Google Photos app).</description>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/gphotos/pixelifyGphotos.apk</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos1.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos2.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos3.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos4.jpg</ss>
@@ -33,7 +33,7 @@
     <viper4android>
         <brief>Tweak the sound of your phone or any speakers</brief>
         <description>1. Install the Viper4Android module (See Modules Tab).\n2. Open the app.\n3. Go into settings and enable Legacy mode.\n4. Enable Master Limiter.\n5. Tweak the settings to match your preference.\n6. Enjoy!</description>
-        <heading>Features</heading>
+        <heading>Steps To Use</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper.jpg</icon>
         <downloadurl>https://github.com/AndroidAudioMods/ViPER4Android/releases/download/v0.6.2/V4A_App_0.6.2.apk</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper2.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper3.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper4.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper5.jpg</ss>
@@ -51,7 +51,7 @@
     </dynamic_spot>
 
     <bootloader_spoofer>
-        <brief>Spooflocked bootloader on local attestations.</brief>
+        <brief>Spoof locked bootloader on local attestations.</brief>
         <description></description>
         <heading></heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/boootloader/bootloader.png</icon>
