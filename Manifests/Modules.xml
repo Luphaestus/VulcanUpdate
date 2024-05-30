@@ -6,7 +6,7 @@
         <heading>How do I use module?</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
         <downloadurl>https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.0.5/Zygisk-Next-1.0.5-305-d463cbb-release.zip</downloadurl>
-        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.jpg</ss>
+        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.png</ss>
         <package>Zygisk Next</package>
     </zygisk>
     <zygisk_hider>
@@ -15,7 +15,7 @@
         <heading>How do I use module?</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
         <downloadurl>https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.0.5/Zygisk-Next-1.0.5-305-d463cbb-release.zip</downloadurl>
-        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.jpg</ss>
+        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.png</ss>
         <package>Zygisk Next</package>
     </zygisk_hider>
     <viper4android_re>
@@ -24,7 +24,7 @@
         <heading>How do I use this module?</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
         <downloadurl>https://github.com/AndroidAudioMods/ViPER4Android/releases/download/v0.6.1/V4A_Magisk_Module_0.6.1.zip</downloadurl>
-        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.jpg</ss>
+        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.png</ss>
         <package>Viper4Android Reverse Engineered</package>
     </viper4android_re>
     <lsposed>
@@ -33,7 +33,7 @@
          <heading>How do I use this module?</heading>
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
          <downloadurl>https://github.com/LSPosed/LSPosed/releases/download/v1.9.2/LSPosed-v1.9.2-7024-zygisk-release.zip</downloadurl>
-         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.jpg</ss>
+         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.png</ss>
          <package>LSPosed Zygisk</package>
     </lsposed>
     <lsposed_traces_hider>
@@ -42,7 +42,7 @@
          <heading>How do I use this module?</heading>
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
          <downloadurl>https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.0.5/Zygisk-Next-1.0.5-305-d463cbb-release.zip</downloadurl>
-         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.jpg</ss>
+         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.png</ss>
          <package>Zygisk Next</package>
     </lsposed_traces_hider>
     <youtube_revanced_ex>
@@ -51,7 +51,7 @@
          <heading>How do I use this modules?</heading>
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
          <downloadurlhttps://github.com/NoName-exe/revanced-extended/releases/download/113/youtube-revanced-extended-magisk-v19.20.34-all.zip</downloadurl>
-         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.jpg</ss>
+         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.png</ss>
          <package>Zygisk Next</package>
    </youtube_revanced_ex>
 </items>
