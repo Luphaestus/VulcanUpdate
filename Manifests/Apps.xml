@@ -43,7 +43,7 @@
     <momo>
         <brief>Root detector</brief>
         <heading>Tips</heading>
-        <description>Are apps still detecting root, even if Momo isn't? Make sure you are Play certified.\nIs it detecting your unlocked bootloader? Install bootloader spoofer (See Apps tab)\nIs momo detecting TWRP? Make sure you remove the TWRP folder from internal storage.</description>
+        <description>• Are apps still detecting root, even if Momo isn't? Make sure you are Play certified.\n• Is Momo detecting your unlocked bootloader? Install bootloader spoofer (See Apps tab)\n• Is Momo detecting TWRP? Make sure you remove the TWRP folder from internal storage.</description>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/momo.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/momo/momo.apk</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/mmosus.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/mmogood.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/mmobroken.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/mmoback.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/mmoabout.jpg</ss>
