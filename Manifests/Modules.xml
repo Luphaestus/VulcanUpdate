@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
     <zygisk>
-        <brief>A kernel-based root solution for Android.</brief>
+        <brief>Standalone implementation of Zygisk.</brief>
         <description>Firstly, make sure you are using a kernel that supports kernelSU (see twrp tab).\nMost modules require zygisk, so you should install zygiskNext and zygisk hider (see modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
         <heading>How do I use KernelSU?</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
