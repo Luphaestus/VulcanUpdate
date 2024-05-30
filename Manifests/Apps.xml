@@ -32,7 +32,7 @@
     
     <viper4android>
         <brief>Tweak the sound of your phone or any speakers</brief>
-        <description>1. Install the Viper4Android module (See Modules Tab)./n2. Open the app./n3. Go into settings and enable Legacy mode./n4. Enable Master Limiter./n5. Tweak the settings to match your preference./6. Enjoy!</description>
+        <description>1. Install the Viper4Android module (See Modules Tab).\n2. Open the app.\n3. Go into settings and enable Legacy mode.\n4. Enable Master Limiter.\n5. Tweak the settings to match your preference.\n6. Enjoy!</description>
         <heading>Features</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper.jpg</icon>
         <downloadurl>https://github.com/AndroidAudioMods/ViPER4Android/releases/download/v0.6.2/V4A_App_0.6.2.apk</downloadurl>
