@@ -50,7 +50,7 @@
          <description>Firstly, make sure you are using a kernel that supports KernelSU (See TWRP tab).\nMost modules require Zygisk, so you should install ZygiskNext and Zygisk Hider (See Modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
          <heading>How do I use this module?</heading>
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
-         <downloadurlhttps://github.com/NoName-exe/revanced-extended/releases/download/113/youtube-revanced-extended-magisk-v19.20.34-all.zip</downloadurl>
+         <downloadurl>https://github.com/NoName-exe/revanced-extended/releases/download/113/youtube-revanced-extended-magisk-v19.20.34-all.zip</downloadurl>
          <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.png</ss>
          <package>Zygisk Next</package>
    </youtube_revanced>
