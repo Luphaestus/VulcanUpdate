@@ -52,7 +52,7 @@
   
     <pixlify_gphotos>
         <brief>Infinite Google photos</brief>
-        <heading>Steps To Use</heading>
+        <heading>How To Use</heading>
         <description>1. Install a KSU Kernel and LSPosed (See Module tab).\n\n2. Install the APK of this app (available from Releases page.)\n\n3. Open LSPosed / EdXposed app and enable the module. For LSPosed, Google Photos will be automatically selected.\n\n4. Reboot, and selecet Pixel XL within the app.\n\n5. Enjoy. (If needed, you might need to clear data of Google Photos app).</description>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/gphotos/pixelifyGphotos.apk</downloadurl>
@@ -73,7 +73,7 @@
     <viper4Android>
          <brief>Tweak the sound of your phone or speakers</brief>
          <description>1. Install the ViPER4Android module (See Modules Tab).\n2. Open the app.\n3. Go into settings and enable Legacy mode.\n4. Enable Master Limiter.\n5. Tweak the settings to match your preference.\n6. Enjoy!</description>
-         <heading>Steps To Use</heading>
+         <heading>How To Use</heading>
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper.png</icon>
          <downloadurl>https://github.com/Luphaestus/VulcanUpdate/blob/main/Apps/viper/ViPER4Android.apk</downloadurl>
          <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper2.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper3.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper4.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper5.jpg</ss>
@@ -83,7 +83,7 @@
     <viperFX>
          <brief>OneUI Redesign of ViPER4Android</brief>
          <description>1. Install the ViPER4Android module (See Modules Tab).\n2. Open the app.\n3. Go into settings and enable Legacy mode.\n4. Enable Master Limiter.\n5. Tweak the settings to match your preference.\n6. Enjoy!</description>
-         <heading>Steps To Use</heading>
+         <heading>How To Use</heading>
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx.jpg</icon>
          <downloadurl>https://github.com/Luphaestus/VulcanUpdate/blob/main/Apps/viperfx/ViperFXRedesign.apk</downloadurl>
          <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx2.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx3.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx4.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx5.jpg</ss>
