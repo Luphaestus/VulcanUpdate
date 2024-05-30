@@ -18,7 +18,7 @@
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.jpg</ss>
         <package>Zygisk Next</package>
     </zygisk_hider>
-    <viper4android_reverse_engineered>
+    <viper4android_re>
         <brief>A kernel-based root solution for Android.</brief>
         <description>Firstly, make sure you are using a kernel that supports kernelSU (see twrp tab).\nMost modules require zygisk, so you should install zygiskNext and zygisk hider (see modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
         <heading>How do I use KernelSU?</heading>
@@ -26,7 +26,7 @@
         <downloadurl>https://github.com/AndroidAudioMods/ViPER4Android/releases/download/v0.6.1/V4A_Magisk_Module_0.6.1.zip</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.jpg</ss>
         <package>Viper4Android Reverse Engineered</package>
-    </viper4android_reverse_engineered> 
+    </viper4android_re> 
    <lsposed>
      <brief>A kernel-based root solution for Android.</brief>
      <description>Firstly, make sure you are using a kernel that supports kernelSU (see twrp tab).\nMost modules require zygisk, so you should install zygiskNext and zygisk hider (see modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
