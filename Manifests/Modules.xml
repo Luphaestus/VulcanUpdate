@@ -27,7 +27,7 @@
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
          <downloadurl>https://github.com/LSPosed/LSPosed/releases/download/v1.9.2/LSPosed-v1.9.2-7024-zygisk-release.zip</downloadurl>
          <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.png</ss>
-         <package>LSPosed Zygisk</package>
+         <package>Zygisk - LSPosed</package>
     </lsposed>
     
     <lsposed_traces_hider>
@@ -47,7 +47,7 @@
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
          <downloadurl>https://github.com/AndroidAudioMods/ViPER4Android/releases/download/v0.6.1/V4A_Magisk_Module_0.6.1.zip</downloadurl>
          <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.png</ss>
-         <package>Viper4Android Reverse Engineered</package>
+         <package>ViPER4Android Reverse Engineered</package>
     </viper4android_re>
     
     <youtube_revanced>
@@ -57,16 +57,16 @@
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
          <downloadurl>https://github.com/NoName-exe/revanced-extended/releases/download/113/youtube-revanced-extended-magisk-v19.20.34-all.zip</downloadurl>
          <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.png</ss>
-         <package>Zygisk Next</package>
+         <package>YouTube Revanced Extended</package>
     </youtube_revanced>
     
-    <lsposed_traces_hider>
+    <play_integrity_fix>
          <brief>A kernel-based root solution for Android.</brief>
          <description>Firstly, make sure you are using a kernel that supports KernelSU (See TWRP tab).\nMost modules require Zygisk, so you should install ZygiskNext and Zygisk Hider (See Modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
          <heading>How do I use this module?</heading>
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
-         <downloadurl>https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.0.5/Zygisk-Next-1.0.5-305-d463cbb-release.zip</downloadurl>
+         <downloadurl>https://github.com/chiteroman/PlayIntegrityFix/releases/download/v15.9.9/PlayIntegrityFix_v15.9.9.zip</downloadurl>
          <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.png</ss>
-         <package>Zygisk Next</package>
-    </lsposed_traces_hider>
+         <package>Play Integrity Fix</package>
+    </play_integrity_fix>
 </items>
