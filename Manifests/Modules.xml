@@ -41,7 +41,7 @@
     </lsposed_traces_hider>
     
     <viper4android_re>
-         <brief>Module for using Viper4Android on Android</brief>
+         <brief>Module for using ViPER4Android on your phone</brief>
          <description>Firstly, make sure you are using a kernel that supports KernelSU (See TWRP tab).\nMost modules require Zygisk, so you should install ZygiskNext and Zygisk Hider (See Modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
          <heading>How do I use this module?</heading>
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
@@ -51,7 +51,7 @@
     </viper4android_re>
     
     <youtube_revanced>
-         <brief>This module enables you to use Youtube Revanced</brief>
+         <brief>This module enables you to use YouTube ReVanced</brief>
          <description>Firstly, make sure you are using a kernel that supports KernelSU (See TWRP tab).\nMost modules require Zygisk, so you should install ZygiskNext and Zygisk Hider (See Modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
          <heading>How do I use this module?</heading>
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
