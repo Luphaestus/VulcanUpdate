@@ -9,7 +9,17 @@
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.png</ss>
         <package>me.weishu.kernelsu</package>
     </kernelSU>
-
+    
+    <ambient_music_mod>
+        <brief>Spoof Pixel's Now Playing feature on any Android</brief>
+        <heading>How To Use</heading>
+        <description>1. Install KSU \n2. Install LSPosed (See Module tab).\n3. Install this app\n4. Open LSPosed/EdXposed and enable this module. For LSPosed, Google Photos will be automatically selected.\n5. Reboot, and select Pixel XL within the app.\n6. Enjoy! (In some cases, you might need to clear data of Google Photos app)</description>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos.png</icon>
+        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/gphotos/pixelifyGphotos.apk</downloadurl>
+        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos1.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos2.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos3.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos4.jpg</ss>
+        <package>com.keironquinn.app.ambientmusicmod</package>
+    </ambient_music_mod>
+    
     <bootloader_spoofer>
          <brief>Spoof bootloader on local attestations</brief>
          <description>Prevents apps from detecting an unlocked bootloader to pass local attestations</description>
@@ -19,7 +29,7 @@
          <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/boootloader/bootloaderUnlocked.png</ss>
          <package>es.chiteroman.bootloaderspoofer</package>
     </bootloader_spoofer>
-
+    
      <dynamic_spot>
          <brief>Dynamic Island for Android</brief>
          <description>• iPhone 15 Pro Dynamic Island notifications\n• iOS notification popups\n• iOS 16.1 Live Activities (app shortcuts)\n• Mini Capsule popup\n• Send notification replies from popup\n• iOS notification popup\n• Notification light / LED replacement\n• Show timer countdown\n• iOS music controls\n• Animated music visualizer\n• Battery charging or empty alarm\n• Customizable interaction\n• Select notification apps\n• Play / Pause\n• Next / Prev\n• Touchable seekbar\n• Custom actions support (like, favorites...)\n• Timer apps: Show running timer\n• Battery: Show percentage\n• Maps: Show distance\n• Music apps: Music controls\n• More to come soon!</description>
@@ -29,7 +39,7 @@
          <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/dynamicSpot/spot1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/dynamicSpot/spot2.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/dynamicSpot/spot3.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/dynamicSpot/spot4.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/dynamicSpot/spot5.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/dynamicSpot/spot6.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/dynamicSpot/spot7.png</ss>
          <package>com.jamworks.dynamicspot</package>
     </dynamic_spot>
-
+    
     <material_files>
          <brief>Android file manager with Root access support</brief>
          <description>Open source: Lightweight, clean and secure.\n\nMaterial Design: Follows Material Design guidelines, with attention into details.\n\nBreadcrumbs: Navigate in the filesystem with ease.\n\nRoot support: View and manage files with root access.\n\nArchive support: View, extract and create common compressed files.\n\nNAS support: View and manage files on FTP, SFTP, SMB and WebDAV servers.\n\nThemes: Customizable UI colors, plus night mode with optional true black.\n\nLinux-aware: Like Nautilus, knows symbolic links, file permissions and SELinux context.\n\nRobust: Uses Linux system calls under the hood, not yet another ls parser.\n\nWell-implemented: Built upon the right things, including Java NIO2 File API and LiveData.</description>
@@ -59,16 +69,6 @@
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos1.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos2.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos3.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos4.jpg</ss>
         <package>balti.xposed.pixelifygooglephotos</package>
     </pixelify_gPhotos>
-
-    <ambient_music_mod>
-        <brief>Spoof Pixel's Now Playing feature</brief>
-        <heading>How To Use</heading>
-        <description>1. Install KSU \n2. Install LSPosed (See Module tab).\n3. Install this app\n4. Open LSPosed/EdXposed and enable this module. For LSPosed, Google Photos will be automatically selected.\n5. Reboot, and select Pixel XL within the app.\n6. Enjoy! (In some cases, you might need to clear data of Google Photos app)</description>
-        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos.png</icon>
-        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/gphotos/pixelifyGphotos.apk</downloadurl>
-        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos1.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos2.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos3.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos4.jpg</ss>
-        <package>com.keironquinn.app.ambientmusicmod</package>
-    </ambient_music_mod>
     
     <termux>
          <brief>An Android terminal emulator and Linux environment app</brief>
@@ -79,7 +79,7 @@
          <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/termux/termux1.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/termux/termux2.png,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/termux/termux3.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/termux/termux4.png</ss>
          <package>com.termux</package>
     </termux>
-
+    
     <viPER4Android>
          <brief>Tweak the sound of your phone or speakers</brief>
          <description>1. Install the ViPER4Android module (See Modules Tab).\n2. Open the app.\n3. Go into settings and enable Legacy mode.\n4. Enable Master Limiter.\n5. Tweak the settings to match your preference.\n6. Enjoy!</description>
@@ -91,7 +91,7 @@
     </viPER4Android>
     
     <viperFX>
-         <brief>OneUI redesign Of ViPER4Android</brief>
+         <brief>One UI redesign of ViPER4Android</brief>
          <description>1. Install the ViPER4Android module (See Modules Tab).\n2. Open the app.\n3. Go into settings and enable Legacy mode.\n4. Enable Master Limiter.\n5. Tweak the settings to match your preference.\n6. Enjoy!</description>
          <heading>How To Use</heading>
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx.jpg</icon>
