@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
     <kernelSU>
-        <brief>A kernel-based Root Solution For Android</brief>
+        <brief>A kernel-based Root solution for Android</brief>
         <description>First, make sure you are using a kernel that supports KernelSU (See TWRP tab).\nMost modules require Zygisk, so you should install ZygiskNext and Zygisk Hider (See Modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
         <heading>How do I use KernelSU?</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
@@ -11,7 +11,7 @@
     </kernelSU>
 
     <bootloader_spoofer>
-         <brief>Spoof Bootloader On Local Attestations</brief>
+         <brief>Spoof bootloader on local attestations</brief>
          <description>Prevents apps from detecting an unlocked bootloader to pass local attestations</description>
          <heading>Features</heading>
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/boootloader/bootloader.png</icon>
@@ -21,7 +21,7 @@
     </bootloader_spoofer>
 
      <dynamic_spot>
-         <brief>Dynamic Island For Android</brief>
+         <brief>Dynamic Island for Android</brief>
          <description>• iPhone 15 Pro Dynamic Island notifications\n• iOS notification popups\n• iOS 16.1 Live Activities (app shortcuts)\n• Mini Capsule popup\n• Send notification replies from popup\n• iOS notification popup\n• Notification light / LED replacement\n• Show timer countdown\n• iOS music controls\n• Animated music visualizer\n• Battery charging or empty alarm\n• Customizable interaction\n• Select notification apps\n• Play / Pause\n• Next / Prev\n• Touchable seekbar\n• Custom actions support (like, favorites...)\n• Timer apps: Show running timer\n• Battery: Show percentage\n• Maps: Show distance\n• Music apps: Music controls\n• More to come soon!</description>
          <heading>Features</heading>
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/dynamicSpot/dynamicSpot.png</icon>
@@ -31,7 +31,7 @@
     </dynamic_spot>
 
     <material_files>
-         <brief>Android File Manager With Root Access Support</brief>
+         <brief>Android file manager with Root access support</brief>
          <description>Open source: Lightweight, clean and secure.\n\nMaterial Design: Follows Material Design guidelines, with attention into details.\n\nBreadcrumbs: Navigate in the filesystem with ease.\n\nRoot support: View and manage files with root access.\n\nArchive support: View, extract and create common compressed files.\n\nNAS support: View and manage files on FTP, SFTP, SMB and WebDAV servers.\n\nThemes: Customizable UI colors, plus night mode with optional true black.\n\nLinux-aware: Like Nautilus, knows symbolic links, file permissions and SELinux context.\n\nRobust: Uses Linux system calls under the hood, not yet another ls parser.\n\nWell-implemented: Built upon the right things, including Java NIO2 File API and LiveData.</description>
          <heading>Features</heading>
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/files/filesicon.png</icon>
@@ -41,7 +41,7 @@
     </material_files>
     
     <momo>
-        <brief>Root Detector</brief>
+        <brief>Root detector</brief>
         <heading>Tips</heading>
         <description>• Are apps still detecting root even when Momo isn't? Make sure you are Play certified.\n• Is Momo detecting your unlocked bootloader? Install bootloader spoofer (See Apps tab)\n• Is Momo detecting TWRP? Make sure you remove the TWRP folder from internal storage.</description>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/momo.png</icon>
@@ -61,17 +61,17 @@
     </pixelify_gPhotos>
 
     <ambient_music_mod>
-        <brief>Pixel's Now Playing Feature</brief>
+        <brief>Spoof Pixel's Now Playing feature</brief>
         <heading>How To Use</heading>
         <description>1. Install KSU \n2. Install LSPosed (See Module tab).\n3. Install this app\n4. Open LSPosed/EdXposed and enable this module. For LSPosed, Google Photos will be automatically selected.\n5. Reboot, and select Pixel XL within the app.\n6. Enjoy! (In some cases, you might need to clear data of Google Photos app)</description>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/gphotos/pixelifyGphotos.apk</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos1.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos2.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos3.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos4.jpg</ss>
-        <package>balti.xposed.pixelifygooglephotos</package>
+        <package>com.keironquinn.app.ambientmusicmod</package>
     </ambient_music_mod>
     
     <termux>
-         <brief>An Android Terminal Emulator And Linux Environment App</brief>
+         <brief>An Android terminal emulator and Linux environment app</brief>
          <description>Secure. Access remote servers using the ssh client from OpenSSH. Termux combines standard packages with accurate terminal emulation in a beautiful open source solution.\n\nFeature packed. Take your pick between Bash, fish or Zsh and nano, Emacs or Vim. Grep through your SMS inbox. Access API endpoints with curl and use rsync to store backups of your contact list on a remote server.\n\nCustomizable. Install what you want through the APT package management system known from Debian and Ubuntu GNU/Linux. Why not start with installing Git and syncing your dotfiles?\n\nExplorable. Have you ever sat on a bus and wondered exactly which arguments tar accepts? Packages available in Termux are the same as those on Mac and Linux - install man pages on your phone and read them in one session while experimenting with them in another.\n\nPortable - With batteries included. Can you imagine a more powerful yet elegant pocket calculator than a readline-powered Python console? Up-to-date versions of Perl, Python, Ruby and Node.js are all available.\n\nReady to scale up. Connect a Bluetooth keyboard and hook up your device to an external display if you need to - Termux supports keyboard shortcuts and has full mouse support.\n\nTinkerable. Develop by compiling Go, Rust, Swift, or C files with Clang and build your own projects with CMake and pkg-config. Both lldb/GDB and strace are available if you get stuck and need to debug.</description>
          <heading>Features</heading>
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/termux/icon.png</icon>
@@ -81,7 +81,7 @@
     </termux>
 
     <viPER4Android>
-         <brief>Tweak The Sound Of Your Phone Or Speakers</brief>
+         <brief>Tweak the sound of your phone or speakers</brief>
          <description>1. Install the ViPER4Android module (See Modules Tab).\n2. Open the app.\n3. Go into settings and enable Legacy mode.\n4. Enable Master Limiter.\n5. Tweak the settings to match your preference.\n6. Enjoy!</description>
          <heading>How To Use</heading>
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper.jpg</icon>
@@ -91,7 +91,7 @@
     </viPER4Android>
     
     <viperFX>
-         <brief>OneUI Redesign Of ViPER4Android</brief>
+         <brief>OneUI redesign Of ViPER4Android</brief>
          <description>1. Install the ViPER4Android module (See Modules Tab).\n2. Open the app.\n3. Go into settings and enable Legacy mode.\n4. Enable Master Limiter.\n5. Tweak the settings to match your preference.\n6. Enjoy!</description>
          <heading>How To Use</heading>
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx.jpg</icon>
