@@ -14,7 +14,7 @@
         <brief>Spoof Pixel's Now Playing feature on any Android</brief>
         <heading>How To Use</heading>
         <description>1. Shizuku\n2. Install Ambient Music Mod\n3. Setup everything\n4. Open Settings and go into Advanced\n5. Enable Alternate Encoding and set gain to 1.1x\n6. Enjoy!</description>
-        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos.png</icon>
+        <icon>https://github.com/Luphaestus/VulcanUpdate/blob/main/Apps/ambientmusicmod/musicmod.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/blob/main/Apps/ambientmusicmod/AmbientMusicMod.apk</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos1.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos2.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos3.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos4.jpg</ss>
         <package>com.kieronquinn.app.ambientmusicmod</package>
