@@ -80,7 +80,7 @@
          <package>com.aam.viper4android</package>
     </viPER4Android>
     
-    <viPERFX>
+    <viperFX>
          <brief>OneUI Redesign of ViPER4Android</brief>
          <description>1. Install the ViPER4Android module (See Modules Tab).\n2. Open the app.\n3. Go into settings and enable Legacy mode.\n4. Enable Master Limiter.\n5. Tweak the settings to match your preference.\n6. Enjoy!</description>
          <heading>How To Use</heading>
@@ -88,5 +88,5 @@
          <downloadurl>https://github.com/Luphaestus/VulcanUpdate/blob/main/Apps/viperfx/ViperFXRedesign.apk</downloadurl>
          <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx2.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx3.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx4.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx5.jpg</ss>
          <package>com.wstxda.viper4android</package>
-    </viPERFX>
+    </viperFX>
 </items>
