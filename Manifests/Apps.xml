@@ -41,7 +41,7 @@
     </material_files>
     
     <momo>
-        <brief>Root detector</brief>
+        <brief>Quickly and easily check if apps can\ndetect Root on your phone.</brief>
         <heading>Tips</heading>
         <description>• Are apps still detecting root even when Momo isn't? Make sure you are Play certified.\n• Is Momo detecting your unlocked bootloader? Install bootloader spoofer (See Apps tab)\n• Is Momo detecting TWRP? Make sure you remove the TWRP folder from internal storage.</description>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/momo.png</icon>
@@ -51,7 +51,7 @@
     </momo>
   
     <pixelify_gPhotos>
-        <brief>Infinite Google Photos Backup</brief>
+        <brief>Get infinite Google Photos Backup</brief>
         <heading>How To Use</heading>
         <description>1. Install KSU \n2. Install LSPosed (See Module tab).\n3. Install this app\n4. Open LSPosed/EdXposed and enable this module. For LSPosed, Google Photos will be automatically selected.\n5. Reboot, and select Pixel XL within the app.\n6. Enjoy! (In some cases, you might need to clear data of Google Photos app)</description>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos.png</icon>
