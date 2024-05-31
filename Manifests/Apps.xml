@@ -41,7 +41,7 @@
     </material_files>
     
     <momo>
-        <brief>Quickly and easily check if apps can\ndetect Root on your phone.</brief>
+        <brief>Quickly and easily check if apps can detect Root on your phone.</brief>
         <heading>Tips</heading>
         <description>• Are apps still detecting root even when Momo isn't? Make sure you are Play certified.\n• Is Momo detecting your unlocked bootloader? Install bootloader spoofer (See Apps tab)\n• Is Momo detecting TWRP? Make sure you remove the TWRP folder from internal storage.</description>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/momo.png</icon>
