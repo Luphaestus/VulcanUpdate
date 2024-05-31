@@ -2,7 +2,7 @@
 <items>
     <kernelSU>
         <brief>A kernel-based root solution for Android</brief>
-        <description>Firstly, make sure you are using a kernel that supports KernelSU (See TWRP tab).\nMost modules require Zygisk, so you should install ZygiskNext and Zygisk Hider (See Modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
+        <description>First, make sure you are using a kernel that supports KernelSU (See TWRP tab).\nMost modules require Zygisk, so you should install ZygiskNext and Zygisk Hider (See Modules tab)\nIf an app requires SU, open the KernelSU application, and enable root access within the app section.</description>
         <heading>How do I use KernelSU?</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/kernelsu.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/ksu/kernelsu.apk</downloadurl>
@@ -12,7 +12,7 @@
 
     <bootloader_spoofer>
          <brief>Spoof locked bootloader on local attestations</brief>
-         <description>Prevent apps from detecting an unlocked bootloader to pass local attestations</description>
+         <description>Prevents apps from detecting an unlocked bootloader to pass local attestations</description>
          <heading>Features</heading>
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/boootloader/bootloader.png</icon>
          <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/boootloader/bootloader.apk</downloadurl>
@@ -22,7 +22,7 @@
 
      <dynamic_spot>
          <brief>Dynamic island for Android</brief>
-         <description>• iPhone 15 Pro Dynamic Island notifications\n• iOS notification popups\n• iOS 16.1 Live Activities (app shortcuts)\n• Mini Capsule popup\n• Send notification replies from popup\n• iOS notification popup\n• Notification light / LED replacement\n• Show timer countdown\n• iOS music controls\n• Animated music visualizer\n• Battery charging or empty alarm\n• Customizable interaction\n• Selcet notification apps\n• Play / Pause\n• Next / Prev\n• Touchable seekbar\n• Custom actions support (like, favorites...)\n• Timer apps: Show running timer\n• Battery: Show percentage\n• Maps: Show distance\n• Music apps: Music controls\n• More to come soon!</description>
+         <description>• iPhone 15 Pro Dynamic Island notifications\n• iOS notification popups\n• iOS 16.1 Live Activities (app shortcuts)\n• Mini Capsule popup\n• Send notification replies from popup\n• iOS notification popup\n• Notification light / LED replacement\n• Show timer countdown\n• iOS music controls\n• Animated music visualizer\n• Battery charging or empty alarm\n• Customizable interaction\n• Select notification apps\n• Play / Pause\n• Next / Prev\n• Touchable seekbar\n• Custom actions support (like, favorites...)\n• Timer apps: Show running timer\n• Battery: Show percentage\n• Maps: Show distance\n• Music apps: Music controls\n• More to come soon!</description>
          <heading>Features</heading>
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/dynamicSpot/dynamicSpot.png</icon>
          <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/dynamicSpot/dynamicSpot.apk</downloadurl>
@@ -43,7 +43,7 @@
     <momo>
         <brief>Root detector</brief>
         <heading>Tips</heading>
-        <description>• Are apps still detecting root, even if Momo isn't? Make sure you are Play certified.\n• Is Momo detecting your unlocked bootloader? Install bootloader spoofer (See Apps tab)\n• Is Momo detecting TWRP? Make sure you remove the TWRP folder from internal storage.</description>
+        <description>• Are apps still detecting root even when Momo isn't? Make sure you are Play certified.\n• Is Momo detecting your unlocked bootloader? Install bootloader spoofer (See Apps tab)\n• Is Momo detecting TWRP? Make sure you remove the TWRP folder from internal storage.</description>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/momo.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/momo/momo.apk</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/mmosus.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/mmogood.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/mmobroken.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/mmoback.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/momo/mmoabout.jpg</ss>
