@@ -14,8 +14,8 @@
         <brief>Spoof Pixel's Now Playing feature on any Android</brief>
         <heading>How To Use</heading>
         <description>1. Shizuku\n2. Install Ambient Music Mod\n3. Setup everything\n4. Open Settings and go into Advanced\n5. Enable Alternate Encoding and set gain to 1.1x\n6. Enjoy!</description>
-        <icon>https://github.com/Luphaestus/VulcanUpdate/blob/main/Apps/ambientmusicmod/musicmod.png</icon>
-        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/blob/main/Apps/ambientmusicmod/AmbientMusicMod.apk</downloadurl>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ambientmusicmod/musicmod.png</icon>
+        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/ambientmusicmod/AmbientMusicMod.apk</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos1.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos2.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos3.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/gphotos/gphotos4.jpg</ss>
         <package>com.kieronquinn.app.ambientmusicmod</package>
     </ambient_music_mod>
@@ -95,7 +95,7 @@
          <description>1. Install the ViPER4Android module (See Modules Tab).\n2. Open the app.\n3. Go into settings and enable Legacy mode.\n4. Enable Master Limiter.\n5. Tweak the settings to match your preference.\n6. Enjoy!</description>
          <heading>How To Use</heading>
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx.jpg</icon>
-         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/blob/main/Apps/viperfx/ViperFXRedesign.apk</downloadurl>
+         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/viperfx/ViperFXRedesign.apk</downloadurl>
          <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx2.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx3.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx4.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx5.jpg</ss>
          <package>com.wstxda.viper4android</package>
     </viperFX>
