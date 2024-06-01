@@ -85,7 +85,7 @@
          <description>1. Install the ViPER4Android module (See Modules Tab).\n2. Open the app.\n3. Go into settings and enable Legacy mode.\n4. Enable Master Limiter.\n5. Tweak the settings to match your preference.\n6. Enjoy!</description>
          <heading>How To Use</heading>
          <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper.jpg</icon>
-         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/blob/main/Apps/viper/ViPER4Android.apk</downloadurl>
+         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/viper/ViPER4Android.apk</downloadurl>
          <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper1.jpg, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper2.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper3.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper4.jpg,https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper5.jpg</ss>
          <package>com.aam.viper4android</package>
     </viPER4Android>
