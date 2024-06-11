@@ -5,7 +5,7 @@
         <description>ZygiskNext is essential for running Zygisk-based modules on a kernel that supports KernelSU. Install this to use various Zygisk modules efficiently.</description>
         <heading>Setting Up ZygiskNext</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Modules/zygisk.png</icon>
-        <downloadurl>https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.0.5/Zygisk-Next-1.0.5-305-d463cbb-release.zip</downloadurl>
+        <downloadurl>https://github.com/corsicanu/TWRP_Bootlogo_patcher/releases/download/v2.0/TWRP_Bootlogo_patcher_v2.0.zip</downloadurl>
         <package>Zygisk Next</package>
     </zygisk>
 </items>
