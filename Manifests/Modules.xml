@@ -40,7 +40,7 @@
         <brief>Module for using ViPER4Android on your phone.</brief>
         <description>ViPER4Android provides advanced audio enhancements, enabling users to optimize sound quality on their devices.</description>
         <heading>Optimizing Sound with ViPER4Android</heading>
-        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viper/viper.png</icon>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx.png</icon>
         <downloadurl>https://github.com/AndroidAudioMods/ViPER4Android/releases/download/v0.6.1/V4A_Magisk_Module_0.6.1.zip</downloadurl>
         <package>ViPER4Android Reverse Engineered</package>
     </viper4android_re>
