@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-    <zygisk>
-        <brief>Standalone implementation of Zygisk.</brief>
-        <description>ZygiskNext is essential for running Zygisk-based modules on a kernel that supports KernelSU. Install this to use various Zygisk modules efficiently.</description>
-        <heading>Setting Up ZygiskNext</heading>
-        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Modules/zygisk.png</icon>
+    <bootloader_warning_remover>
+        <brief>Removes the unlocked bootloader warning message.</brief>
+        <description>This bootloader remover is made by corsicanu, you can find the github here -> https://github.com/corsicanu/TWRP_Bootlogo_patcher/</description>
+        <heading>Credits</heading>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/warning.png</icon>
         <downloadurl>https://github.com/corsicanu/TWRP_Bootlogo_patcher/releases/download/v2.0/TWRP_Bootlogo_patcher_v2.0.zip</downloadurl>
         <package>Zygisk Next</package>
-    </zygisk>
+    </bootloader_warning_remover>
 </items>
