@@ -27,15 +27,7 @@
         <package>Zygisk - LSPosed</package>
     </lsposed>
     
-    <lsposed_traces_hider>
-        <brief>Module for hiding traces of LSPosed.</brief>
-        <description>LSPosed Traces Hider helps mask the presence of LSPosed, ensuring apps and services do not detect its use on your device.</description>
-        <heading>Stealth Mode with LSPosed Traces Hider</heading>
-        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Modules/lsposedhider.png</icon>
-        <downloadurl>https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.0.5/Zygisk-Next-1.0.5-305-d463cbb-release.zip</downloadurl>
-        <package>LSPosed Traces Hider</package>
-    </lsposed_traces_hider>
-    
+
     <viper4android_re>
         <brief>Module for using ViPER4Android on your phone.</brief>
         <description>ViPER4Android provides advanced audio enhancements, enabling users to optimize sound quality on their devices.</description>
