@@ -9,16 +9,6 @@
         <package>me.weishu.kernelsu</package>
     </kernelSU>
     
-    <bootloader_spoofer>
-        <brief>Spoof Bootloader Status to Pass Local Attestations</brief>
-        <description>Bootloader Spoofer prevents apps from detecting an unlocked bootloader, helping you pass local attestations effortlessly. It's essential for maintaining the security and functionality of apps that check bootloader status.</description>
-        <heading>Maintain App Integrity with Bootloader Spoofer</heading>
-        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/boootloader/bootloader.png</icon>
-        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/boootloader/bootloader.apk</downloadurl>
-        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/boootloader/bootloaderUnlocked.png</ss>
-        <package>es.chiteroman.bootloaderspoofer</package>
-    </bootloader_spoofer>
-    
     <dynamic_spot>
         <brief>Transform Your Notifications with Dynamic Spot</brief>
         <description>Dynamic Spot brings iPhone 15 Pro's Dynamic Island notifications to Android. Enjoy iOS notification popups, Live Activities, music controls, and more. Customize interactions, select apps for notifications, and use features like timer countdown, battery alerts, and a music visualizer.</description>
