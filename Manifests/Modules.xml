@@ -32,8 +32,8 @@
         <brief>Installs the module required to use Sharp++ for AGC-GCAM.</brief>
         <description>Replaces libraries related to the camera to enable functionalities such as RAW, high-speed, ZSL, front cam and more on C2API.</description>
         <heading>Unlock your camera</heading>
-        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Modules/lsposed.png</icon>
-        <downloadurl>https://github.com/LSPosed/LSPosed/releases/download/v1.9.2/LSPosed-v1.9.2-7024-zygisk-release.zip</downloadurl>
+        <icon>https://github.com/Luphaestus/VulcanUpdate/blob/3a872e1bd86d05e92c04c14f911eb108406895fe/Modules/gcam/gcam.png</icon>
+        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/blob/3a872e1bd86d05e92c04c14f911eb108406895fe/Modules/gcam/gcam.zip</downloadurl>
         <package>Sharp++ Camera Module (N20U)</package>
     </sharp_plus_plus>
     
