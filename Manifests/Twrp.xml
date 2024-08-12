@@ -8,13 +8,5 @@
         <downloadurl>https://github.com/corsicanu/TWRP_Bootlogo_patcher/releases/download/v2.0/TWRP_Bootlogo_patcher_v2.0.zip</downloadurl>
         <package>Zygisk Next</package>
     </bootloader_warning_remover>
-    <colourfull_boot_animation>
-        <brief>Custom boot animation made by Luphaestus.</brief>
-        <description>If you would like to add your own image, message in the telgram group!</description>
-        <heading>Contribution</heading>
-        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/warning.png</icon>
-        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Twrp/Colourfull-boot/Colourfull-boot.zip</downloadurl>
-        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/Colourfull-boot/preview.jpg</ss>
-        <package>Zygisk Next</package>
-    </colourfull_boot_animation>
+
 </items>
