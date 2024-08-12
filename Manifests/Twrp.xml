@@ -14,6 +14,7 @@
         <heading>Contribution</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/Colourfull-boot/icon.png</icon>
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Twrp/Colourfull-boot/Colourfull-boot.zip</downloadurl>
+        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/Colourfull-boot/preview.jpg</ss>
         <package>Zygisk Next</package>
     </colourfull_boot_animation>
 </items>
