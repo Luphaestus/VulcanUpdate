@@ -1,0 +1,56 @@
+ui_print ("_||_______________________________________________||_");
+ui_print ("_  _______________________________________________  _");
+ui_print (" ||                                               || ");
+ui_print (" || __    __  _   _   _     ___            _   _  || ");
+ui_print (" || \ \  / / | | | | | |   / __|    /\    | \ | | || ");
+ui_print (" ||  \ \/ /  | | | | | |  | |      /  \   |  \| | || ");
+ui_print (" ||   \  /   | |_| | | |_ | |__   / __ \  | |\  | || ");
+ui_print (" ||    \/     \___/  |___| \___| /_/  \_\ |_| \_| || ");
+ui_print (" ||          _______                              || ");
+ui_print (" ||         |_   __ \     ___     __  __          || ");
+ui_print (" ||          | |__) |    / _ \   |  \/  |         || ");
+ui_print (" ||          |  __ /    | | | |  | | |\/|         || ");
+ui_print (" ||         _| |  \ \_  | |_| |  | |  | |         || ");
+ui_print (" ||        |____| |___|  \___/   |_|  |_|         || ");
+ui_print ("_||_______________________________________________||_");
+
+
+ui_print("Flashing boot logo");
+
+
+
+
+
+if is_substring("N986B", getprop("ro.bootloader")) then
+	package_extract_file("N986B.bin", "/dev/block/bootdevice/by-name/up_param");
+endif;
+
+if is_substring("N985F", getprop("ro.bootloader")) then
+	package_extract_file("N985F.bin", "/dev/block/bootdevice/by-name/up_param");
+endif;
+
+if is_substring("N980F", getprop("ro.bootloader")) then
+	package_extract_file("N980F.bin", "/dev/block/bootdevice/by-name/up_param");
+endif;
+
+if is_substring("N981B", getprop("ro.bootloader")) then
+	package_extract_file("N981B.bin", "/dev/block/bootdevice/by-name/up_param");
+endif;
+
+ui_print (" ||                                               || ");
+ui_print (" || +-------------------------------------------+ || ");
+ui_print (" || |                                           | || ");
+ui_print (" || |           THANKS FOR INSTALLING!          | || ");
+ui_print (" || |                                           | || ");
+ui_print (" || |    Make sure to join the telegram groups  | || ");
+ui_print (" || |    -> https://t.me/VulcanROM              | || ");
+ui_print (" || |    -> https://t.me/note20updates          | || ");
+ui_print (" || |                                           | || ");
+ui_print (" || |    If you enjoy this ROM, please consider | || ");
+ui_print (" || |    Donating (link in telegram)            | || ");
+ui_print (" || |                                           | || ");
+ui_print (" || +-------------------------------------------+ || ");
+ui_print ("_||_______________________________________________||_");
+ui_print ("_  _______________________________________________  _");
+ui_print (" ||                                               ||");
+

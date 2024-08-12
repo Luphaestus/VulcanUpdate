@@ -17,4 +17,13 @@
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/Colourfull-boot/preview.jpg</ss>
         <package>Zygisk Next</package>
     </colourfull_boot_animation>
+    <S8_boot_animation>
+        <brief>Custom boot animation from Samsung S8.</brief>
+        <description>If you would like to add your own image, message in the telegram group</description>
+        <heading>Contribution</heading>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/s8/icon.png</icon>
+        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Twrp/s8/s8.zip</downloadurl>
+        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/s8/preview.jpg</ss>
+        <package>Zygisk Next</package>
+    </S8_boot_animation>
 </items>
