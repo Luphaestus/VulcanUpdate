@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-    <dev-channel-is-working>
-        <brief>Standalone implementation of Zygisk.</brief>
-        <description>ZygiskNext is essential for running Zygisk-based modules on a kernel that supports KernelSU. Install this to use various Zygisk modules efficiently.</description>
+    <vulcanROM-V2.1>
+        <brief>A small update to Vulcan ROM</brief>
+        <description>
+-Strong Integrity
+-Ringtone picker fixed (secsound)
+-Google Assistant voice commands fixed
+-Snapchat camera fixed
+-DressRoom ambient mode added
+-Sketch too image (In gallery and notes)
+-Portrait affects
+        </description>
         <heading>Setting Up ZygiskNext</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Modules/zygisk.png</icon>
-        <downloadurl>https://github.com/corsicanu/TWRP_Bootlogo_patcher/releases/download/v2.0/TWRP_Bootlogo_patcher_v2.0.zip</downloadurl>
+        <downloadurl>https://www.dropbox.com/scl/fi/9exws0k1ftn3tt0rzz9hn/VulcanV2.1.zip?rlkey=j9piyr9c8v0psm6hgm0f3duxi&st=lio513p0&dl=1</downloadurl>
         <package>Zygisk Next</package>
-    </dev-channel-is-working>
+    </vulcanROM-V2.1>
 </items>
