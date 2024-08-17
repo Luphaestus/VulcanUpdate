@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
     <zygisk>
-        <brief>Standalone implementation of Zygisk.</brief>
+        <brief>I'm so good at coding lol.</brief>
         <description>ZygiskNext is essential for running Zygisk-based modules on a kernel that supports KernelSU. Install this to use various Zygisk modules efficiently.</description>
         <heading>Setting Up ZygiskNext</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Modules/zygisk.png</icon>
