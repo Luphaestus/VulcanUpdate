@@ -1,5 +1,7 @@
 <manifest>
-    <version>2.2.2</version>
-    <fileSize type="long">5871167</fileSize>
+    <version>2.2.3</version>
+
+
+        <fileSize type="long">5871167</fileSize>
     <downloadURL>https://github.com/Luphaestus/VulcanUpdate/raw/main/VulcanUpdates/VulcanUpdates.apk</downloadURL>
 </manifest>
