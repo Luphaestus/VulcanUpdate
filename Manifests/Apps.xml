@@ -1,5 +1,5 @@
 <items>
-    <kernelSU>
+    <LLLLUPHaestus>
         <brief>Kernel-based Root Solution for Enhanced Android Control</brief>
         <description>KernelSU provides a kernel-level root solution, enabling advanced control over your Android device. To get started, use a kernel that supports KernelSU (refer to the TWRP tab). Most modules require Zygisk, so install ZygiskNext and Zygisk Hider (see Modules tab). For apps needing SU access, open the KernelSU application and enable root access within the app section.</description>
         <heading>Maximize Control with KernelSU</heading>
@@ -7,7 +7,7 @@
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Apps/ksu/kernelsu.apk</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu1.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu2.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu3.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu4.png, https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/ksu/ksu5.png</ss>
         <package>me.weishu.kernelsu</package>
-    </kernelSU>
+    </LLLLUPHaestus>
     
     <bootloader_spoofer>
         <brief>Spoof Bootloader Status to Pass Local Attestations</brief>
