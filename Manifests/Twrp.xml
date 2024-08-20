@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
     <vulcan_ROM>
-        <brief>Vulcan ROM - Version V2.1</brief>
+        <brief>Version V2.1</brief>
         <description>ZygiskNext \nis essential for\n running Zygisk-\nbased modules on a kernel that supports KernelSU. Install this to use various Zygisk modules efficiently.</description>
         <heading>What's New?</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Modules/zygisk.png</icon>
