@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-    <dev-channel-is-working>
-        <brief>Standalone implementation of Zygisk.</brief>
+    <vulcan-ROM>
+        <brief>Vulcan ROM - Version V2.1</brief>
         <description>ZygiskNext is essential for running Zygisk-based modules on a kernel that supports KernelSU. Install this to use various Zygisk modules efficiently.</description>
-        <heading>Setting Up ZygiskNext</heading>
+        <heading>What's New?</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Modules/zygisk.png</icon>
-        <downloadurl>https://download943.mediafire.com/w90yiybvb08gk4lewNkWTrk8F_YyZyawGjco4bMfM77VdPPxDeihSjzbzSc8v7r0S_fo1W1vgDcXqlJfxwD3zIullG64foxV1w_BgnqvdzoxDE4S4sNm7bdVTW_JVS02a0vi-1tcQy5KipgBbCaDn2tIWGkicRDLYhrxYtZxL0l2/om6r3cyh3y14czd/VulcanV2.1+%281%29.zip</downloadurl>
+        <downloadurl>https://download943.mediafire.com/69kk3vt5mssg32HEtaphoa4VyLBlC6-LKIbqdhnAtnabn0fcj3Qn4yzbouBZo4Z1u9tlhk-IOMUcaavFN425c5bJTK4UFpMrRoOHHnTIFhChW1xWZotho_B_bwzRiub-HTYgSsJdks4ITnJBIbo89k1CsdV_XM8TJvfWLiJfffX0u38/xtaaehvbdjjpk4x/VulcanV2.1.zip</downloadurl>
         <package>Zygisk Next</package>
     </dev-channel-is-working>
 </items>
