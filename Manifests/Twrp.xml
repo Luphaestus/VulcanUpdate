@@ -4,7 +4,7 @@
         <brief>Version V2.1</brief>
         <description>●Strong Integrity\n● Ringtone picker fixed (secsound)\n● Google Assistant voice commands fixed\n● Snapchat camera fixed\n●More detailed battery infomation\n● DressRoom ambient mode added\n● Sketch too image (In gallery and notes)\n● Portrait affects</description>
         <heading>What's New?</heading>
-        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Modules/zygisk.png</icon>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/vulcan.png</icon>
         <downloadurl>https://download943.mediafire.com/69kk3vt5mssg32HEtaphoa4VyLBlC6-LKIbqdhnAtnabn0fcj3Qn4yzbouBZo4Z1u9tlhk-IOMUcaavFN425c5bJTK4UFpMrRoOHHnTIFhChW1xWZotho_B_bwzRiub-HTYgSsJdks4ITnJBIbo89k1CsdV_XM8TJvfWLiJfffX0u38/xtaaehvbdjjpk4x/VulcanV2.1.zip</downloadurl>
         <package>Zygisk Next</package>
     </vulcan_ROM>
