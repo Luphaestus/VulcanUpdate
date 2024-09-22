@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
+    <vulcan_ROM>
+        <brief>Version V2.1</brief>
+        <description>● Strong Integrity\n● Ringtone picker fixed (secsound)\n● Google Assistant voice commands fixed\n● Snapchat camera fixed\n● More detailed battery infomation\n● DressRoom ambient mode added\n● Sketch to image (In gallery and notes)\n● Portrait affects</description>
+        <heading>What's New?</heading>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/vulcan.png</icon>
+        <downloadurl>https://1drv.de/u/s!ApvDkvEvApJwgod1qJyxW8axuRX6Sg?e=UTOOGk</downloadurl>
+        <package>Zygisk Next</package>
+    </vulcan_ROM>
     <bootloader_warning_remover>
         <brief>Removes the unlocked bootloader warning message.</brief>
         <description>This bootloader remover is made by corsicanu, you can find the github here -> https://github.com/corsicanu/TWRP_Bootlogo_patcher/</description>
