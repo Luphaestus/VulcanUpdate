@@ -1,23 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <items>
-    <zygisk>
-        <brief>Standalone implementation of Zygisk.</brief>
-        <description>ZygiskNext is essential for running Zygisk-based modules on a kernel that supports KernelSU. Install this to use various Zygisk modules efficiently.</description>
-        <heading>Setting Up ZygiskNext</heading>
+    <rezygisk>
+        <brief>Standalone implementation of ReZygisk.</brief>
+        <description>ReZygisk is essential for running Zygisk-based modules on a kernel that supports KernelSU. Install this to use various Zygisk modules efficiently.</description>
+        <heading>Setting Up ReZygisk</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Modules/zygisk.png</icon>
-        <downloadurl>https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.0.5/Zygisk-Next-1.0.5-305-d463cbb-release.zip</downloadurl>
-        <package>Zygisk Next</package>
-    </zygisk>
-    
-    <zygisk_hider>
-        <brief>Module for hiding the traces of Zygisk.</brief>
-        <description>Use Zygisk Hider to conceal the presence of Zygisk from detection by various apps, ensuring smoother usage without interference.</description>
-        <heading>Concealing Zygisk with Zygisk Hider</heading>
-        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Modules/hider.png</icon>
-        <downloadurl>https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.0.5/Zygisk-Next-1.0.5-305-d463cbb-release.zip</downloadurl>
-        <package>Zygisk traces hider 🕵🏻‍♂️</package>
-    </zygisk_hider>
-    
+        <downloadurl>https://github.com/PerformanC/ReZygisk/actions/runs/10436263578/artifacts/1823668219</downloadurl>
+        <package>ReZygisk</package>
+    </rezygisk>
+
     <lsposed>
         <brief>Zygisk module for using LSPosed with KernelSU.</brief>
         <description>LSPosed brings Xposed framework functionalities via Zygisk, allowing advanced customizations and modules for your Android device.</description>
@@ -27,7 +18,6 @@
         <package>Zygisk - LSPosed</package>
     </lsposed>
 
-
     <gcam>
         <brief>Patches, and install google camera.</brief>
         <description>Replaces libraries related to the camera to enable functionalities such as RAW, high-speed, ZSL, front cam and more on C2API, installs gcam app and sets up config.</description>
@@ -36,24 +26,31 @@
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Modules/gcam/gcam.zip</downloadurl>
         <package>Sharp++ Camera Module (N20U)</package>
     </gcam>
-    
 
     <viper4android_re>
         <brief>Module for using ViPER4Android on your phone.</brief>
         <description>ViPER4Android provides advanced audio enhancements, enabling users to optimize sound quality on their devices.</description>
         <heading>Optimizing Sound with ViPER4Android</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx.jpg</icon>
-        <downloadurl>https://github.com/AndroidAudioMods/ViPER4Android/releases/download/v0.6.1/V4A_Magisk_Module_0.6.1.zip</downloadurl>
+        <downloadurl>https://github.com/AndroidAudioMods/ViPER4Android/releases/download/v0.6.2/V4A_App_0.6.2.apk</downloadurl>
         <package>ViPER4Android Reverse Engineered</package>
     </viper4android_re>
-    
+
     <youtube_revanced>
         <brief>This module enables you to use YouTube ReVanced.</brief>
         <description>YouTube ReVanced offers an ad-free experience, background playback, and more features for an enhanced YouTube experience.</description>
         <heading>Enhance Your YouTube Experience with ReVanced</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Modules/revanced.png</icon>
-        <downloadurl>https://github.com/NoName-exe/revanced-extended/releases/download/113/youtube-revanced-extended-magisk-v19.20.34-all.zip</downloadurl>
+        <downloadurl>https://github.com/NoName-exe/revanced-extended/releases/download/122/youtube-revanced-extended-v19.16.39-all.apk</downloadurl>
         <package>YouTube ReVanced eXtended</package>
     </youtube_revanced>
-    
+
+    <youtube_music_revanced>
+        <brief>This module enables you to use YouTube Music ReVanced.</brief>
+        <description>YouTube Music ReVanced offers an ad-free music streaming experience with background playback and more features for an enhanced experience.</description>
+        <heading>Enhance Your Music Experience with ReVanced</heading>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Modules/revanced_music.png</icon>
+        <downloadurl>https://github.com/NoName-exe/revanced-extended/releases/download/122/youtube-music-revanced-extended-magisk-v7.17.51-arm64-v8a.zip</downloadurl>
+        <package>YouTube Music ReVanced</package>
+    </youtube_music_revanced>
 </items>
