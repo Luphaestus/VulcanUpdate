@@ -6,7 +6,7 @@ repositories = {
     "Zygisk - LSPosed": ("LSPosed/LSPosed", 1),
     "Sharp++ Camera Module (N20U)": ("Luphaestus/VulcanUpdate", 0),
     "ViPER4Android Reverse Engineered": ("AndroidAudioMods/ViPER4Android", 0),
-    "YouTube ReVanced eXtended": ("NoName-exe/revanced-extended", 5),
+    "YouTube ReVanced eXtended": ("NoName-exe/revanced-extended", 2),
     "YouTube Music ReVanced": ("NoName-exe/revanced-extended", 1)  
 }
 
@@ -24,7 +24,7 @@ def get_latest_download_url(repo, asset_index):
         print(f"Failed to fetch releases for {repo}: {response.status_code}")
     return None
 
-xml_file_path = '/Users/luphaestus/Documents/VulcanUpdate/Manifests/Modules.xml'
+xml_file_path = './Manifests/Modules.xml'
 tree = ET.parse(xml_file_path)
 root = tree.getroot()
 
@@ -36,6 +36,7 @@ for module in root:
         if latest_url:
             download_url = module.find('downloadurl')
             if download_url is not None:
+                print(latest_url)
                 download_url.text = latest_url
 
 tree.write(xml_file_path, encoding='UTF-8', xml_declaration=True)
