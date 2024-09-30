@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
     <vulcan_ROM>
-        <brief>Version V2.1</brief>
+        <brief>Version V2.1.0.1</brief>
         <description>● Strong Integrity\n● Ringtone picker fixed (secsound)\n● Google Assistant voice commands fixed\n● Snapchat camera fixed\n● More detailed battery infomation\n● DressRoom ambient mode added\n● Sketch to image (In gallery and notes)\n● Portrait affects</description>
         <heading>What's New?</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/vulcan.png</icon>
