@@ -2,10 +2,9 @@ import xml.etree.ElementTree as ET
 import requests
 
 repositories = {
-    "ReZygisk": ("PerformanC/ReZygisk", 0),  
     "Zygisk - LSPosed": ("LSPosed/LSPosed", 1),
     "Sharp++ Camera Module (N20U)": ("Luphaestus/VulcanUpdate", 0),
-    "ViPER4Android Reverse Engineered": ("AndroidAudioMods/ViPER4Android", 0),
+    "ViPER4Android Reverse Engineered": ("AndroidAudioMods/ViPER4Android", 1),
     "YouTube ReVanced eXtended": ("NoName-exe/revanced-extended", 2),
     "YouTube Music ReVanced": ("NoName-exe/revanced-extended", 1)  
 }

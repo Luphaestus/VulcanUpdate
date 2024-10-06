@@ -4,8 +4,8 @@
         <brief>Standalone implementation of ReZygisk.</brief>
         <description>ReZygisk is essential for running Zygisk-based modules on a kernel that supports KernelSU. Install this to use various Zygisk modules efficiently.</description>
         <heading>Setting Up ReZygisk</heading>
-        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Modules/zygisk.png</icon>
-        <downloadurl>https://github.com/PerformanC/ReZygisk/actions/runs/10436263578/artifacts/1823668219</downloadurl>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Modules/zygisk/zygisk.png</icon>
+        <downloadurl>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Modules/zygisk/zygisk.zip</downloadurl>
         <package>ReZygisk</package>
     </rezygisk>
 
@@ -32,7 +32,7 @@
         <description>ViPER4Android provides advanced audio enhancements, enabling users to optimize sound quality on their devices.</description>
         <heading>Optimizing Sound with ViPER4Android</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Apps/viperfx/viperfx.jpg</icon>
-        <downloadurl>https://github.com/AndroidAudioMods/ViPER4Android/releases/download/v0.6.2/V4A_App_0.6.2.apk</downloadurl>
+        <downloadurl>https://github.com/AndroidAudioMods/ViPER4Android/releases/download/v0.6.1/V4A_Magisk_Module_0.6.1.zip</downloadurl>
         <package>ViPER4Android Reverse Engineered</package>
     </viper4android_re>
 
@@ -44,6 +44,15 @@
         <downloadurl>https://github.com/NoName-exe/revanced-extended/releases/download/123/youtube-revanced-extended-magisk-v19.16.39-all.zip</downloadurl>
         <package>YouTube ReVanced eXtended</package>
     </youtube_revanced>
+
+    <youtube_music_revanced>
+        <brief>This module enables you to use YouTube Music ReVanced.</brief>
+        <description>YouTube Music ReVanced offers an ad-free experience, background playback, and more features for an enhanced music streaming experience.</description>
+        <heading>Enhance Your Music Experience with ReVanced</heading>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Modules/revanced_music.png</icon>
+        <downloadurl>https://github.com/NoName-exe/revanced-extended/releases/download/122/youtube-music-revanced-extended-magisk-v7.17.51-arm-v7a.zip</downloadurl>
+        <package>YouTube Music ReVanced eXtended</package>
+    </youtube_music_revanced>
 
 
 </items>
