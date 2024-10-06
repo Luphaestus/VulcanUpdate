@@ -23,7 +23,7 @@
         <description>Replaces libraries related to the camera to enable functionalities such as RAW, high-speed, ZSL, front cam and more on C2API, installs gcam app and sets up config.</description>
         <heading>Unlock your camera</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Modules/gcam/gcam.png</icon>
-        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Modules/gcam/gcam.zip</downloadurl>
+        <downloadurl>https://1drv.de/u/s!ApvDkvEvApJwgpBk1WuIsOW5cBmSzw</downloadurl>
         <package>Sharp++ Camera Module (N20U)</package>
     </gcam>
 
