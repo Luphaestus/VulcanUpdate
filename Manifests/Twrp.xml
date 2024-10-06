@@ -6,7 +6,6 @@
         <heading>What's New?</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/vulcan.png</icon>
         <downloadurl>https://1drv.de/u/s!ApvDkvEvApJwgpA0Jcmrrdovwfsisw</downloadurl>
-        <package>Zygisk Next</package>
     </vulcan_ROM>
     <bootloader_warning_remover>
         <brief>Removes the unlocked bootloader warning message.</brief>
