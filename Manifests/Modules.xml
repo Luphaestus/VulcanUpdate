@@ -50,7 +50,7 @@
         <description>YouTube Music ReVanced offers an ad-free experience, background playback, and more features for an enhanced music streaming experience.</description>
         <heading>Enhance Your Music Experience with ReVanced</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Modules/revanced_music.png</icon>
-        <downloadurl>https://github.com/NoName-exe/revanced-extended/releases/download/122/youtube-music-revanced-extended-magisk-v7.17.51-arm-v7a.zip</downloadurl>
+        <downloadurl>https://github.com/NoName-exe/revanced-extended/releases/download/122/youtube-music-revanced-extended-magisk-v7.17.51-arm64-v8a.zip</downloadurl>
         <package>YouTube Music ReVanced eXtended</package>
     </youtube_music_revanced>
 
