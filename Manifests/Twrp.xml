@@ -14,7 +14,7 @@
         <description>This bootloader remover is made by corsicanu, you can find the github here -> https://github.com/corsicanu/TWRP_Bootlogo_patcher/</description>
         <heading>Credits</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/warning.png</icon>
-        <downloadurl>https://github.com/corsicanu/TWRP_Bootlogo_patcher/releases/download/v2.0/TWRP_Bootlogo_patcher_v2.0.zip</downloadurl>]
+        <downloadurl>https://github.com/corsicanu/TWRP_Bootlogo_patcher/releases/download/v2.0/TWRP_Bootlogo_patcher_v2.0.zip</downloadurl>
         <package>REMOVEINV3</package>
     </bootloader_warning_remover>
     <colourfull_boot_animation>
