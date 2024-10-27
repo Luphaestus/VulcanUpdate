@@ -17,6 +17,15 @@
         <downloadurl>https://github.com/corsicanu/TWRP_Bootlogo_patcher/releases/download/v2.0/TWRP_Bootlogo_patcher_v2.0.zip</downloadurl>
         <package>REMOVEINV3</package>
     </bootloader_warning_remover>
+    <note20_wallpapers>
+        <brief>Wallpapers from Note 20 - Dupa z lasu</brief>
+        <description>If you would like to add your own image, message in the telegram group</description>
+        <heading>Contribution</heading>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/oneui1.1/icon.png</icon>
+        <downloadurl>https://1drv.de/u/s!ApvDkvEvApJwgpMZla4ihbiWNVoD1w</downloadurl>
+        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/n20wall/preview.jpg</ss>
+        <package>REMOVEINV3</package>
+    </note20_wallpapers>
     <colourfull_boot_animation>
         <brief>Custom boot animation made by Luphaestus.</brief>
         <description>If you would like to add your own image, message in the telegram group</description>
@@ -34,7 +43,7 @@
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Twrp/s8/s8.zip</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/s8/preview.jpg</ss>
         <package>REMOVEINV3</package>
-    </S8_boot_animation>
+    </S8_boot_animation>c
     <ONUI_1_boot_animation>
         <brief>One UI 1.1 boot animation - Dupa z lasu</brief>
         <description>If you would like to add your own image, message in the telegram group</description>
