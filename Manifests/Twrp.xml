@@ -40,8 +40,8 @@
         <description>If you would like to add your own image, message in the telegram group</description>
         <heading>Contribution</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/oneui1.1/icon.png</icon>
-        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Twrp/oneui1/oneui1.zip</downloadurl>
-        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/oneui1/preview.jpg</ss>
+        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Twrp/oneui1.1/oneui1.1.zip</downloadurl>
+        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/oneui1.1/preview.jpg</ss>
         <package>REMOVEINV3</package>
     </ONUI_1_boot_animation>
     <stock_boot_animation>
