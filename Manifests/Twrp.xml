@@ -43,7 +43,7 @@
         <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Twrp/s8/s8.zip</downloadurl>
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/s8/preview.jpg</ss>
         <package>REMOVEINV3</package>
-    </S8_boot_animation>c
+    </S8_boot_animation>
     <ONUI_1_boot_animation>
         <brief>One UI 1.1 boot animation - Dupa z lasu</brief>
         <description>If you would like to add your own image, message in the telegram group</description>
