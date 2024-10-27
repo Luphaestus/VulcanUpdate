@@ -27,7 +27,7 @@
         <package>REMOVEINV3</package>
     </colourfull_boot_animation>
     <S8_boot_animation>
-        <brief>Custom boot animation from Samsung S8.</brief>
+        <brief>Custom boot animation from Samsung S5.</brief>
         <description>If you would like to add your own image, message in the telegram group</description>
         <heading>Contribution</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/s8/icon.png</icon>
@@ -35,6 +35,15 @@
         <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/s8/preview.jpg</ss>
         <package>REMOVEINV3</package>
     </S8_boot_animation>
+    <ONUI_1_boot_animation>
+        <brief>One UI 1.1 boot animation - Dupa z lasu</brief>
+        <description>If you would like to add your own image, message in the telegram group</description>
+        <heading>Contribution</heading>
+        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/oneui1.1/icon.png</icon>
+        <downloadurl>https://github.com/Luphaestus/VulcanUpdate/raw/main/Twrp/oneui1/oneui1.zip</downloadurl>
+        <ss>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/oneui1/preview.jpg</ss>
+        <package>REMOVEINV3</package>
+    </ONUI_1_boot_animation>
     <stock_boot_animation>
         <brief>Revert animations back to stock.</brief>
         <description>If you would like to add your own image, message in the telegram group</description>
