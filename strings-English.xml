@@ -32,7 +32,7 @@
   <string name="About_title">About Vulcan ROM Updates</string>
   <string name="telegram">Telegram</string>
   <string name="premium">Vulcan Premium</string>
-  <string name="Xda">Xda</string>
+  <string name="Xda">XDA</string>
   <string name="link_xda">https://xdaforums.com/</string>
   <string name="vulcan_updates_manifest">https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Manifests/VulcanUpdates.xml</string>
   <string name="app_manifest">https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Manifests/Apps.xml</string>
