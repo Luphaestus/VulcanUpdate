@@ -6,7 +6,7 @@
   <string name="reject">Refuser</string>
   <string name="sesl_cancel">Abandonner</string>
   <string name="tweaks">Réglages</string>
-  <string name="display">Afficher</string>
+  <string name="display">Écran</string>
   <string name="bugreport">Rapport de bug</string>
   <string name="tab_twrp">TWRP</string>
   <string name="tab_modules">Modules</string>
@@ -21,7 +21,7 @@
   <string name="oobe_onboard_msg1_title">Personnalisable</string>
   <string name="oobe_onboard_msg2_title">Automatisé</string>
   <string name="oobe_onboard_msg3_title">Gratuit</string>
-  <string name="oobe_onboard_msg1_summary">Personnalisez votre téléphone avec des réglages spécialement conçus pour la ROM Vulcaine.</string>
+  <string name="oobe_onboard_msg1_summary">Personnalisez votre téléphone avec des réglages spécialement conçus pour le Vulcan ROM.</string>
   <string name="oobe_onboard_msg2_summary">Les améliorations sont automatiquement flashées et vérifiées pour les mises à jour.</string>
   <string name="oobe_onboard_msg3_summary">Aucun abonnement, aucun achat dans l\'application, aucun coût du tout. Sauf si vous voulez faire un don ;)</string>
   <string name="tos">Conditions d\'utilisation</string>
@@ -30,7 +30,7 @@
   <string name="accept_tos">Continuer</string>
   <string name="Software_info">Infos sur l\'appareil</string>
   <string name="About_title">À propos des mises à jour de Vulcan ROM</string>
-  <string name="telegram">Télégramme</string>
+  <string name="telegram">Telegram</string>
   <string name="premium">Vulcan Premium</string>
   <string name="Xda">XDA</string>
   <string name="link_xda">https://xdaforums.com/</string>
@@ -49,7 +49,7 @@
   <string name="more_information">Plus d\'informations</string>
   <string name="Notifications">Notifications</string>
   <string name="notificaion_enable_title">Notifications de mise à jour</string>
-  <string name="notifications_description">Vérifier automatiquement les mises à jour et afficher une notification quand elle est disponible</string>
+  <string name="notifications_description">Vérifier automatiquement les mises à jour et afficher une notification quand une est disponible</string>
   <string name="check_frequency_title">Fréquence de vérification des mises à jour</string>
   <string name="Network">Réseau</string>
   <string name="update_network_title">Mettre à jour via le réseau</string>
