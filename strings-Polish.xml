@@ -78,8 +78,8 @@
   <string name="device_image_settings_description">This will change the device image in settings.</string>
   <string name="device_settings_image_upload_title">Upload Device Image (png)</string>
   <string name="root_not_available">Root not available</string>
-  <string name="give_root_plz">Please give Vulcan Updates root permission within Kernel SU.</string>
-  <string name="give_root_instructions">Make sure to press 3 dots &gt; show system apps to show Vulcan Updates in Kernel Su.</string>
+  <string name="give_root_plz">Please give Vulcan Updates root permission within KernelSU.</string>
+  <string name="give_root_instructions">Make sure to press 3 dots &gt; show system apps to show Vulcan Updates in KernelSU.</string>
   <string name="module_uninstallation_failed">Module uninstallation failed: %1$s (Code: %2$s)</string>
   <string name="failed_to_retrieve_module_list">Failed to retrieve module list</string>
   <string name="installing">Installing…</string>
