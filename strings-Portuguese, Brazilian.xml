@@ -2,7 +2,7 @@
 <resources>
   <string name="app_name">Atualizador Vulcan</string>
   <string name="app_brief">One UI 6.1 Port - Luphaestus</string>
-  <string name="ok">Aceitar</string>
+  <string name="ok">OK</string>
   <string name="reject">Rejeitar</string>
   <string name="sesl_cancel">Cancelar</string>
   <string name="tweaks">Tweaks</string>
