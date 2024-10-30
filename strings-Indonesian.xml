@@ -100,7 +100,7 @@
   <string name="remove_file">Remove</string>
   <string name="selected_file">Selected File: %1$s</string>
   <string name="selected_file_none">Selected file: None</string>
-  <string name="selected_file_shutdown">Selected file: shutdown_animation.qmg</string>
+  <string name="selected_file_shutdown">File yang dipilih: shutdown_animation.qmg</string>
   <string name="bug_report_title">Bug Report Title</string>
   <string name="telegram_username">Telegram Username</string>
   <string name="device_model">Device Model</string>
