@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Mises à jour Vulcaines</string>
-  <string name="app_brief">Un port UI 6.1 - Luphaestus</string>
+  <string name="app_name">Mises à jour du Vulcan ROM</string>
+  <string name="app_brief">Port One UI 6.1 - Luphaestus</string>
   <string name="ok">Ok</string>
   <string name="reject">Refuser</string>
   <string name="sesl_cancel">Abandonner</string>
