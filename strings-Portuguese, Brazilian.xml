@@ -2,11 +2,11 @@
 <resources>
   <string name="app_name">Atualizações do Vulcan</string>
   <string name="app_brief">One UI 6.1 Port - Luphaestus</string>
-  <string name="ok">Sim</string>
-  <string name="reject">Reject</string>
+  <string name="ok">Aceitar</string>
+  <string name="reject">Rejeitar</string>
   <string name="sesl_cancel">Cancelar</string>
   <string name="tweaks">Tweaks</string>
-  <string name="display">Display</string>
+  <string name="display">Tela</string>
   <string name="bugreport">Reportar um erro</string>
   <string name="tab_twrp">TWRP</string>
   <string name="tab_modules">Módulos</string>
@@ -21,10 +21,10 @@
   <string name="oobe_onboard_msg1_title">Customisable</string>
   <string name="oobe_onboard_msg2_title">Automated</string>
   <string name="oobe_onboard_msg3_title">Free</string>
-  <string name="oobe_onboard_msg1_summary">Customise your phone with tweaks made specifically for Vulcan ROM.</string>
-  <string name="oobe_onboard_msg2_summary">Tweaks are automatically flashed and checked for updates.</string>
-  <string name="oobe_onboard_msg3_summary">No subscriptions, no in-app purchases, no costs at all. Unless you want to donate ;)</string>
-  <string name="tos">Terms of Service</string>
+  <string name="oobe_onboard_msg1_summary">Customize seu dispositivo com tweaks feitos especificamente para a ROM Vulcan.</string>
+  <string name="oobe_onboard_msg2_summary">Buscar e instalar automaticamente atualizações dos Tweaks.</string>
+  <string name="oobe_onboard_msg3_summary">Nenhuma assinatura, compra no app ou custo algum. A menos que você queira doar ;)</string>
+  <string name="tos">Termos de Serviço</string>
   <string name="tos_content">1. Acceptance of Terms\n\n1.1 Respect the Work: Vulcan ROM is the product of extensive development. Please do not redistribute or modify it without proper attribution. Sharing is encouraged, but give credit where it’s due.\n1.2 Warranty Warning: Using this ROM may void your device warranty. Proceed with this knowledge and at your own risk.\n\n2. Updates and Changes\n\n2.1 Changes to Terms: We reserve the right to modify these terms or the ROM at any time. Please check back regularly for updates.\n2.2 Privacy Policy: We respect your privacy. We do not collect personal data without your consent. If data collection is necessary, we will inform you clearly and obtain your permission.\n\n3. Installation Guidelines\n\n3.1 Backup Your Data: Before installing Vulcan ROM, ensure you have a complete backup of your data. This step is crucial as installation will erase your existing data.\n13.2 Follow Instructions: Carefully follow the installation instructions provided. Incorrect installation can lead to issues with your device.\n13.3 Reporting Issues: If you encounter any bugs or issues, report them to us. Your feedback helps us improve the ROM.\n\n4. Community and Support\n\n4.1 Join the Community: Engage with our community of users. Share your experiences, tips, and support each other. Collaboration enhances everyone’s experience.\n14.2 Provide Feedback: Your feedback is valuable. Share your thoughts and suggestions to help us make Vulcan ROM better.</string>
   <string name="oobe_tos_text">By continuing, you agree to the %1$s.</string>
   <string name="accept_tos">Continue</string>
@@ -57,10 +57,10 @@
   <string name="selected_file_shutdown_animation_qmg">Arquivo selecionado: shutdown_animation.qmg</string>
   <string name="choose_file">Escolher Arquivo</string>
   <string name="bootloader_anim_description">This will flash a custom up-param, which includes the initial boot image (Galaxy Note 20 screen), download mode, device warning messages, and others.</string>
-  <string name="bootloader_anim_upload_title">Upload Boot Animation (up_param.bin)</string>
-  <string name="bootloader_anim_upload_description">Instructions for Creating a Custom Up-Param</string>
+  <string name="bootloader_anim_upload_title">Adicionar Animação de Boot (up_param.bin)</string>
+  <string name="bootloader_anim_upload_description">Instruções para criar um Up-Param customizado</string>
   <string name="bootloader_anim_upload_instructions">1. Download the bootloader (BL) for your device from SamFW.\n2. Extract the contents of the downloaded BL file.\n3. Open Up-Param as an archive (please do not extract it).\n4. Edit the desired image using Microsoft Paint, or obtain a pre-made image from our Telegram group.</string>
-  <string name="apply">Apply</string>
+  <string name="apply">Aplicar</string>
   <string name="_60_hz">60 Hz</string>
   <string name="_120_hz">120 Hz</string>
   <string name="force_refresh_description">Adjust your screen\'s refresh rate.</string>
