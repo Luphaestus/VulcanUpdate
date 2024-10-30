@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Vulcan Updates</string>
+  <string name="app_name">Atualizador Vulcan</string>
   <string name="app_brief">One UI 6.1 Port - Luphaestus</string>
   <string name="ok">Aceitar</string>
   <string name="reject">Rejeitar</string>
@@ -59,7 +59,7 @@
   <string name="bootloader_anim_description">Isso irá instalar um up-param customizado, inclui a boot image de inicialização (tela Galaxy Note 20), download mode, device warning messages, e outros.</string>
   <string name="bootloader_anim_upload_title">Adicionar Animação de Boot (up_param.bin)</string>
   <string name="bootloader_anim_upload_description">Instruções para criar um Up-Param customizado</string>
-  <string name="bootloader_anim_upload_instructions">1. Download the bootloader (BL) for your device from SamFW.\n2. Extract the contents of the downloaded BL file.\n3. Open Up-Param as an archive (please do not extract it).\n4. Edit the desired image using Microsoft Paint, or obtain a pre-made image from our Telegram group.</string>
+  <string name="bootloader_anim_upload_instructions">1. Baixe o bootloader (BL) para seu dispositivo do SamFW.\n2. Extraia o conteúdo do arquivo BL baixado.\n3. Abra o Up-Param como um arquivo (não o Extraia).\n4. Edite a imagem desejada usando o Microsoft Paint ou obtenha uma imagem pré-fabricada do nosso grupo do Telegram.</string>
   <string name="apply">Aplicar</string>
   <string name="_60_hz">60 Hz</string>
   <string name="_120_hz">120 Hz</string>
