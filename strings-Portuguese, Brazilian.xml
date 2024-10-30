@@ -79,14 +79,14 @@
   <string name="device_settings_image_upload_title">Adicione uma imagem do dispositivo (png)</string>
   <string name="root_not_available">Root não disponível</string>
   <string name="give_root_plz">Por favor, conceda a permissão de root para o Vulcan Updates no KernelSU.</string>
-  <string name="give_root_instructions">Para exibir o Vulcan Updates no KernelSU, certifique-se de clicar nos 3 pontos &gt; Mostrar apps do sistema.</string>
+  <string name="give_root_instructions">Para exibir o Atualizador Vulcan no KernelSU, certifique-se de clicar nos 3 pontos &gt; Mostrar apps do sistema.</string>
   <string name="module_uninstallation_failed">Falha ao desinstalar módulo: %1$s (Código: %2$s)</string>
   <string name="failed_to_retrieve_module_list">Falha ao recuperar lista de módulos</string>
   <string name="installing">Instalando…</string>
   <string name="download_progress">%1$dMB / %2$dMB</string>
   <string name="paused_text">Pausado %1$s</string>
   <string name="boot_animation_title">Animação de inicialização</string>
-  <string name="boot_animation_description">Essas animações aparecerão após a tela de inicialização do Galaxy Note 20.</string>
+  <string name="boot_animation_description">Estas animações aparecerão após a tela de inicialização do Galaxy Note 20.</string>
   <string name="upload_boot_samsung">Adicionar um Boot Samsung (arquivo .qmg)</string>
   <string name="boot_samsung_description">Animação exibida antes do Samsung Loop. Aparece somente uma vez.</string>
   <string name="upload_boot_samsung_loop">Adicionar um Boot Samsung Loop (arquivo .qmg)</string>
