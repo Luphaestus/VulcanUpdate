@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Vulcan Updates</string>
-  <string name="app_brief">One UI 6.1 Port - Luphaestus</string>
-  <string name="ok">OK</string>
-  <string name="reject">Reject</string>
-  <string name="sesl_cancel">Cancel</string>
-  <string name="tweaks">Tweaks</string>
-  <string name="display">Display</string>
-  <string name="bugreport">Bug Report</string>
-  <string name="tab_twrp">TWRP</string>
-  <string name="tab_modules">Modules</string>
-  <string name="tab_apps">Apps</string>
-  <string name="waiting">Waiting…</string>
+  <string name="app_name">ولکن کی تازہ ترین معلومات</string>
+  <string name="app_brief">ون UI 6.1 پورٹ - لو فیسٹس</string>
+  <string name="ok">ٹھیک ہے</string>
+  <string name="reject">رد کریں</string>
+  <string name="sesl_cancel">منسوخ کریں</string>
+  <string name="tweaks">تبدیلیاں</string>
+  <string name="display">دکھائیں</string>
+  <string name="bugreport">بگ رپورٹ</string>
+  <string name="tab_twrp">ٹی ڈبلیو آر پی</string>
+  <string name="tab_modules">ماڈیولز</string>
+  <string name="tab_apps">ائپس\"</string>
+  <string name="waiting">انتذار…</string>
   <string name="download_failed">FAILED</string>
   <string name="download_in_progress">Download in Progress</string>
   <string name="starting_download">Starting download…</string>
