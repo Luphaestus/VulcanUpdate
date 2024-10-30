@@ -90,10 +90,10 @@
   <string name="upload_boot_samsung">Boot Samsung (.qmg Datei) hochladen</string>
   <string name="boot_samsung_description">Animation, die vor Samsung-Schleife abgespielt wird. Nur einmal abgespielt.</string>
   <string name="upload_boot_samsung_loop">Boot Samsung Loop hochladen (.qmg Datei)</string>
-  <string name="boot_samsung_loop_description">This animation plays continuously until the phone is booted.</string>
-  <string name="upload_shutdown_samsung">Upload Shutdown Samsung (.qmg file)</string>
-  <string name="shutdown_samsung_description">Animation that is shown when powering off the phone.</string>
-  <string name="bootloader_title">Bootloader Boot Animation</string>
+  <string name="boot_samsung_loop_description">Diese Animation wird kontinuierlich gespielt, bis das Telefon gestartet ist.</string>
+  <string name="upload_shutdown_samsung">Shutdown Samsung (.qmg Datei) hochladen</string>
+  <string name="shutdown_samsung_description">Animation, die beim Ausschalten des Telefons angezeigt wird.</string>
+  <string name="bootloader_title">Bootloader-Bootanimation</string>
   <string name="bootloader_brief">Ändere das erste Boot-Image.</string>
   <string name="system_animation_title">System-Boot-Animation</string>
   <string name="system_animation_brief">Ändern Sie die zweite Boot-Animation.</string>
