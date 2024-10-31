@@ -114,7 +114,7 @@
   <string name="not_tested">Nie testowano</string>
   <string name="problem_description">Opis problemu</string>
   <string name="submit_bug_report">Prześlij</string>
-  <string name="settings_image_title">Settings Device Image</string>
+  <string name="settings_image_title">Ustawienia obrazu urządzenia</string>
   <string name="settings_image_brief">Zmień obraz urządzenia w ustawieniach.</string>
   <string name="force_refresh_title">Wymuś odświeżanie</string>
   <string name="force_refresh_brief">Ustaw odświeżanie.</string>
