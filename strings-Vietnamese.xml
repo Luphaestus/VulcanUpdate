@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Cập nhật Vulcan</string>
-  <string name="app_brief">One UI 6.1 Port - Luphaestus</string>
+  <string name="app_brief">One UI 6,1 Port - Luphaestus</string>
   <string name="ok">OK</string>
   <string name="reject">Từ chối</string>
   <string name="sesl_cancel">Hủy bỏ</string>
@@ -11,10 +11,10 @@
   <string name="tab_twrp">TWRP</string>
   <string name="tab_modules">Mô-đun</string>
   <string name="tab_apps">Ứng dụng</string>
-  <string name="waiting">XIn chờ</string>
+  <string name="waiting">XIn chờ...</string>
   <string name="download_failed">Thất bại</string>
   <string name="download_in_progress">Đang tải xuống</string>
-  <string name="starting_download">Đang bắt đầu tải xuống</string>
+  <string name="starting_download">Đang bắt đầu tải xuống...</string>
   <string name="download_completed">Tải xuống hoàn tất</string>
   <string name="download_failed_with_message">Tải xuống thất bại: %1$s</string>
   <string name="download_paused">Tạm dừng tải xuống</string>
