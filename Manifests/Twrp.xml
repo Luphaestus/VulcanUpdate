@@ -5,7 +5,7 @@
         <description>● Strong Integrity\n● Ringtone picker fixed (secsound)\n● Google Assistant voice commands fixed\n● Snapchat camera fixed\n● More detailed battery infomation\n● DressRoom ambient mode added\n● Sketch to image (In gallery and notes)\n● Portrait affects</description>
         <heading>What's New?</heading>
         <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Twrp/vulcan.png</icon>
-        <downloadurl>https://1drv.de/u/s!ApvDkvEvApJwgpA0Jcmrrdovwfsisw</downloadurl>
+        <downloadurl>https://huggingface.co/datasets/Luphaestus/VulcanUpdates3Data/resolve/main/core/VulcanV2.1.0.1.zip</downloadurl>
         <romversion>l2.1.0.1</romversion>
         <package>REMOVEINV3</package>
     </vulcan_ROM>
