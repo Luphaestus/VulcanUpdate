@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Actualizări VulcanROM</string>
+  <string name="app_brief">Versiune One UI: 6.1 Port - Luphaestus</string>
+  <string name="ok">Ok</string>
+  <string name="reject">Refuză</string>
+  <string name="sesl_cancel">Anulează</string>
+  <string name="tweaks">Modificări</string>
+  <string name="display">Afișaj</string>
+  <string name="bugreport">Raport de erori</string>
+  <string name="tab_twrp">TWRP</string>
+  <string name="tab_modules">Module</string>
+  <string name="tab_apps">Aplicații</string>
+  <string name="waiting">Te rugăm să aștepți...</string>
+  <string name="download_failed">Descărcarea a eșuat!</string>
+  <string name="download_in_progress">Se descarcă...</string>
+  <string name="starting_download">Descărcarea începe...</string>
+  <string name="download_completed">Descărcare terminată!</string>
+  <string name="download_failed_with_message">Descărcare eșuată: %1$s</string>
+  <string name="download_paused">Descărcare în pauză</string>
+  <string name="oobe_onboard_msg1_title">Modificabil</string>
+  <string name="oobe_onboard_msg2_title">Automatizat</string>
+  <string name="oobe_onboard_msg3_title"></string>
+  <string name="oobe_onboard_msg1_summary">Personalizează-ți telefonul cu adaptările făcute special pentru Vulcan ROM.</string>
+  <string name="oobe_onboard_msg2_summary">Adaptările sunt imediat scrise în memoria Flash. Actualizările sunt automatizate.</string>
+  <string name="oobe_onboard_msg3_summary">Fără abonamente, fără achiziții în aplicație, fără costuri. Cu excepția cazului în care vrei să donezi ;)</string>
+  <string name="tos">Termenii serviciului</string>
+  <string name="tos_content">1. Acceptarea Termenilor
+
+1.1 Respectă Munca: Vulcan ROM este produsul unei dezvoltări extinse. Vă rugăm să nu redistribuiți sau să modificați fără atribuirea corespunzătoare. Împărtășirea este încurajată, dar dați credit unde este meritat.
+
+11.2 Avertisment de Garanție: Utilizarea acestui ROM poate anula garanția dispozitivului dumneavoastră. Continuați cu această cunoștință și pe propriul risc.
+
+2. Actualizări și Modificări
+
+2.1 Modificări ale Termenilor: Ne rezervăm dreptul de a modifica acești termeni sau ROM-ul în orice moment. Vă rugăm să verificați periodic pentru actualizări.
+
+12.2 Politica de Confidențialitate: Respectăm confidențialitatea dumneavoastră. Nu colectăm date personale fără consimțământul dumneavoastră. Dacă este necesară colectarea datelor, vă vom informa clar și vom obține permisiunea.
+
+3. Ghid de Instalare
+
+3.1 Realizați Backup la Date: Înainte de a instala Vulcan ROM, asigurați-vă că aveți un backup complet al datelor. Acest pas este crucial deoarece instalarea va șterge datele existente.
+
+13.2 Urmați Instrucțiunile: Urmați cu atenție instrucțiunile de instalare furnizate. Instalarea incorectă poate duce la probleme cu dispozitivul dumneavoastră.
+
+13.3 Raportați Probleme: Dacă întâlniți erori sau probleme, raportați-le către noi. Feedback-ul dumneavoastră ne ajută să îmbunătățim ROM-ul.
+
+4. Comunitate și Suport
+
+4.1 Alăturați-vă Comunității: Implicați-vă în comunitatea noastră de utilizatori. Împărtășiți experiențe, sfaturi și oferiți suport reciproc. Colaborarea îmbunătățește experiența tuturor.
+
+14.2 Oferiți Feedback: Feedback-ul dumneavoastră este valoros. Împărtășiți-vă gândurile și sugestiile pentru a ne ajuta să facem Vulcan ROM mai bun.</string>
+  <string name="oobe_tos_text">Continuând, eşti de acord cu %1$s.</string>
+  <string name="accept_tos">Continuă</string>
+  <string name="Software_info">Informații dispozitiv</string>
+  <string name="About_title">Despre Actualizări VulcanROM</string>
+  <string name="telegram">Telegram</string>
+  <string name="premium">Vulcan Premium</string>
+  <string name="Xda">XDA</string>
+  <string name="link_xda">https://xdaforums.com/</string>
+  <string name="vulcan_updates_manifest">https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Manifests/VulcanUpdates.xml</string>
+  <string name="app_manifest">https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Manifests/Apps.xml</string>
+  <string name="module_manifest">https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Manifests/Modules.xml</string>
+  <string name="twrp_manifest">https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Manifests/Twrp.xml</string>
+  <string name="vulcan_updates_manifest_dev">https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/dev/Manifests/VulcanUpdates.xml</string>
+  <string name="app_manifest_dev">https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/dev/Manifests/Apps.xml</string>
+  <string name="module_manifest_dev">https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/dev/Manifests/Modules.xml</string>
+  <string name="twrp_manifest_dev">https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/dev/Manifests/Twrp.xml</string>
+  <string name="Settings_title">Setări</string>
+  <string name="delete_appdata_and_exit">Șterge datele aplicației și închide</string>
+  <string name="delete_appdata_and_exit_warning">Atenție! Această operație îți va șterge toate datele personale. Sigur continui?</string>
+  <string name="dev_options">Opțiuni dezvoltator</string>
+  <string name="more_information">Mai multe informații</string>
+  <string name="Notifications">Notificări</string>
+  <string name="notificaion_enable_title">Notificări privind actualizările</string>
+  <string name="notifications_description">Verifică automat existență actualizări și notifică dacă există</string>
+  <string name="check_frequency_title">Frecvență căutare actualizări</string>
+  <string name="Network"></string>
+  <string name="update_network_title">Actualizează prin rețea</string>
+  <string name="update_channel">Canal actualizări</string>
+  <string name="selected_file_shutdown_animation_qmg">Fișier selectat: shutdown_animation.qmg,</string>
+  <string name="choose_file">Încarcă fișier</string>
+  <string name="bootloader_anim_description">Aceasta va instala un modul de pornire personalizat, care include imaginea iniţială de pornire (Galaxy Note 20 ecran), modul de descărcare, mesajele de avertizare ale dispozitivului şi altele.</string>
+  <string name="bootloader_anim_upload_title">Încarcă animație de pornire (Up_param.bin)</string>
+  <string name="bootloader_anim_upload_description">Instrucțiuni pentru crearea unui Up-Param personalizat</string>
+  <string name="bootloader_anim_upload_instructions">1. Descarcă bootloader (BL) pentru dispozitivul tău din SamFW.\n2. Extrage conținutul fișierului BL descărcat.\n3. Deschideți Up-Param ca o arhivă (vă rugăm să nu o extrageți).\n4. Editați imaginea dorită folosind Microsoft Paint, sau obțineți o imagine pre-făcută din grupul nostru Telegram.</string>
+  <string name="apply">Aplică</string>
+  <string name="_60_hz">60 Hz</string>
+  <string name="_120_hz">120 Hz</string>
+  <string name="force_refresh_description">Reglaţi rata de reîmprospătare a ecranului.</string>
+  <string name="adaptive_title">Rată de reîmprospătare adaptivă</string>
+  <string name="adaptive_description">Ajustează automat în funcție de conținut.</string>
+  <string name="_48_title">Rată reîmprospătare 48Hz</string>
+  <string name="_48_description">Reîmprospătare mai mică pentru economisirea bateriei.</string>
+  <string name="_60hz_title">Rată reîmprospătare 60Hz</string>
+  <string name="_60hz_description">Rata standard de reîmprospătare.</string>
+  <string name="_96hz_title">Rată reîmprospătare 96Hz</string>
+  <string name="_96hz_description">Experiență dentară.</string>
+  <string name="_120hz_title">Rată reîmprospătare 120Hz</string>
+  <string name="_120hz_description">Rata de reîmprospătare mare pentru jocuri.</string>
+  <string name="no_network">Nicio rețea disponibilă</string>
+  <string name="device_image_settings_description">Acest lucru va schimba imaginea dispozitivului în setări.</string>
+  <string name="device_settings_image_upload_title">Încărcați imaginea dispozitivului (png)</string>
+  <string name="root_not_available">Rădăcină indisponibilă</string>
+  <string name="give_root_plz">Vă rugăm să oferiți permisiuni root pentru Vulcan în KernelSU.</string>
+  <string name="give_root_instructions">Asigurați-vă că apăsați 3 puncte &gt; arată aplicațiile de sistem pentru a afișa actualizările Vulcan în KernelSU.</string>
+  <string name="module_uninstallation_failed">Dezinstalarea modulului a eșuat: %1$s (Cod: %2$s)</string>
+  <string name="failed_to_retrieve_module_list">Preluarea listei de module a eșuat</string>
+  <string name="installing">Se instalează…</string>
+  <string name="download_progress">%1$dMB / %2$dMB</string>
+  <string name="paused_text">Pauză %1$s</string>
+  <string name="boot_animation_title">Animaţie de pornire</string>
+  <string name="boot_animation_description">Aceste animații vor apărea după ecranul de pornire al Galaxy Note 20.</string>
+  <string name="upload_boot_samsung">Încărcare Boot Samsung (fișier qmg)</string>
+  <string name="boot_samsung_description">Animația care se joacă înainte de Samsung Loop. Se joacă doar o singură dată.</string>
+  <string name="upload_boot_samsung_loop">Încărcați bucla Boot Samsung (fișier .qmg)</string>
+  <string name="boot_samsung_loop_description">Această animație se redă continuu până la pornirea telefonului.</string>
+  <string name="upload_shutdown_samsung">Încărcați închiderea Samsung (fișier .qmg)</string>
+  <string name="shutdown_samsung_description">Animația care este afișată când se alimentează telefonul.</string>
+  <string name="bootloader_title">Animație Boot Bootloader</string>
+  <string name="bootloader_brief">Schimbă prima imagine de pornire.</string>
+  <string name="system_animation_title">Animație Sistem de Pornire</string>
+  <string name="system_animation_brief">Schimba a doua animatie de pornire.</string>
+  <string name="remove_file">Elimină</string>
+  <string name="selected_file">Fișier selectat: %1$s</string>
+  <string name="selected_file_none">Fişier selectat: nu există</string>
+  <string name="selected_file_shutdown">Fișier selectat: shutdown_animation.qmg,</string>
+  <string name="bug_report_title">Titlu raport eroare</string>
+  <string name="telegram_username">Utilizator Telegram</string>
+  <string name="device_model">Model dispozitiv</string>
+  <string name="vulcan_rom_version">Vulcan ROM Versiune</string>
+  <string name="frequency_of_bug">Frecvența erorii</string>
+  <string name="occurs_all_the_time">Afiseaza tot timpul</string>
+  <string name="occurs_occasionally">Ocazional,</string>
+  <string name="occurs_after_formatting">Oare după formatare</string>
+  <string name="yes">Da</string>
+  <string name="no">Nu</string>
+  <string name="not_tested">Nu este testat</string>
+  <string name="problem_description">Descriere problemă</string>
+  <string name="submit_bug_report">Trimite raport de erori</string>
+  <string name="settings_image_title">Setari imagine dispozitiv</string>
+  <string name="settings_image_brief">Modifică imaginea dispozitivului în setări.</string>
+  <string name="force_refresh_title">Rata de reîmprospătare forţată</string>
+  <string name="force_refresh_brief">Setaţi rata de reîmprospătare pentru afişaj. (Automatic Translation)</string>
+  <string name="menu_refresh">Împrospătează</string>
+  <string name="device_information">Informații dispozitiv</string>
+  <string name="battery_information">Informații baterie</string>
+  <string name="display_information">Afişare informaţii</string>
+  <string name="camera_information_0">Informații cameră foto 0</string>
+  <string name="camera_information_1">Informaţii 1 ale camerei</string>
+  <string name="camera_information_2">Informaţii despre cameră 2</string>
+  <string name="camera_information_3">Informaţii despre cameră 3</string>
+  <string name="camera_information_4">Informaţii 4 privind camera</string>
+  <string name="ram_information">RAM Information</string>
+  <string name="internal_storage_information">Informații de stocare internă</string>
+  <string name="cpu_frequency">Frecvenţă CPU</string>
+  <string name="cpu_information">Informații CPU</string>
+  <string name="android_device_information">Informații dispozitiv Android</string>
+  <string name="java_environment_information">Java Informații despre mediu</string>
+  <string name="kernel_information">Informații nucleu</string>
+</resources>
