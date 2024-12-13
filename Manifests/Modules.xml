@@ -18,15 +18,6 @@
         <package>Zygisk - LSPosed</package>
     </lsposed>
 
-    <gcam>
-        <brief>Patches, and install google camera.</brief>
-        <description>Replaces libraries related to the camera to enable functionalities such as RAW, high-speed, ZSL, front cam and more on C2API, installs gcam app and sets up config.</description>
-        <heading>Unlock your camera</heading>
-        <icon>https://raw.githubusercontent.com/Luphaestus/VulcanUpdate/main/Modules/gcam.png</icon>
-        <downloadurl>https://1drv.de/u/s!ApvDkvEvApJwgpBk1WuIsOW5cBmSzw</downloadurl>
-        <package>Sharp++ Camera Module (N20U)</package>
-    </gcam>
-
     <viper4android_re>
         <brief>Module for using ViPER4Android on your phone.</brief>
         <description>ViPER4Android provides advanced audio enhancements, enabling users to optimize sound quality on their devices.</description>
